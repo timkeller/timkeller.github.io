@@ -1,0 +1,146 @@
+---
+date: '2011-07-25 22:00:58'
+layout: post
+slug: my-my-apps-2011
+status: publish
+title: My Mac's Applications folder
+wordpress_id: '62038525'
+tags:
+- Technology
+---
+
+Having upgraded my Macbook Air the day OS X Lion came out, I settled down a last night to upgrade my main machine – my 2010 MacBookPro.
+
+Plenty of people have already posted best practices for upgrading to Lion, so I won’t do bore you with a detailed explanation of backing up with TimeMachine and [Superduper](http://www.shirt-pocket.com/SuperDuper/).
+
+What I did find fun, was making a list of those Apps that I use on a daily basis and will need to install before I can be productive. Hopefully you’ll find some gems listed below that’ll help you in your day-to-day Mac workflow.
+
+**Productivity**
+
+
+
+	
+  * [Notational Velocity](http://notational.net/) (I use Brett Turpstra’s [nvAlt 2.0 fork](http://brettterpstra.com/project/nvalt/))
+
+	
+  * [OmniFocus](http://www.omnigroup.com/products/omnifocus/)
+
+	
+  * [OmniOutliner](http://www.omnigroup.com/products/omnioutliner/)
+
+	
+  * Google [Chrome Beta-Channel](http://www.google.com/landing/chrome/beta/)
+
+	
+  * [Firefox Stable Channel](http://www.mozilla.com/en-US/firefox/new/) (for [Firebug](http://www.getfirebug.org/))
+
+	
+  * [Pomodoro](http://pomodoro.ugolandini.com/) Timer
+
+	
+  * iWork 09 ([Pages](http://itunes.apple.com/us/app/pages/id409201541?mt=12), [Numbers](http://itunes.apple.com/us/app/numbers/id409203825?mt=12), and [Keynote](http://itunes.apple.com/us/app/keynote/id409183694?mt=12))
+
+	
+  * [TextExpander](http://www.smilesoftware.com/TextExpander/)
+
+	
+  * [Hazel](http://www.noodlesoft.com/hazel.php)
+
+
+**Development**
+
+
+
+	
+  * [XCode](http://itunes.apple.com/us/app/xcode/id448457090?mt=12) 4.1
+
+	
+  * [SublimeText](http://www.sublimetext.com/2) 2.0 (Beta)
+
+	
+  * [Aptana Studio](http://www.aptana.com/)
+
+	
+  * [Textmate](http://macromates.com/) (somewhat out of date, by still a favorite)
+
+	
+  * [Sequel Pro](http://www.sequelpro.com/) (The best MySQL GUI)
+
+	
+  * [Navicat Postgres](http://www.navicat.com/) and [PgAdmin 3](http://www.pgadmin.org/) (depending on my mood)
+
+	
+  * [Versions](http://versionsapp.com/) (for Subversion)
+
+	
+  * [Expandrive](http://www.expandrive.com/)
+
+
+**Design and Photography**
+
+
+
+	
+  * [Photoshop](http://www.adobe.com/products/photoshop.html) CS5
+
+	
+  * [Lightroom 3](http://www.adobe.com/products/photoshoplightroom/)
+
+	
+  * iLife  ([iPhoto](http://itunes.apple.com/us/app/iphoto/id408981381?mt=12), [iMovie](http://itunes.apple.com/us/app/imovie/id408981434?mt=12), [GarageBand](http://itunes.apple.com/us/app/garageband/id408980954?mt=12))
+
+	
+  * [VLC](http://www.videolan.org/vlc/)
+
+
+**Social**
+
+
+
+	
+  * [Twitter](http://itunes.apple.com/us/app/twitter/id409789998?mt=12) (previously called Tweetie)
+
+	
+  * [Textual](http://www.codeux.com/textual/) (for IRC)
+
+	
+  * [Skype](http://www.skype.com/intl/en/home)
+
+	
+  * [NetNewsWire](http://netnewswireapp.com/)
+
+	
+  * [CloudApp](http://getcloudapp.com/)
+
+
+**Gaming**
+
+
+
+	
+  * [World of Warcraft](http://eu.battle.net/wow/en/)
+
+	
+  * [Steam](http://store.steampowered.com/)
+
+
+**Unix Nerdary**
+
+
+
+	
+  * [VirtualBox](http://www.virtualbox.org/)
+
+	
+  * [Homebrew](http://mxcl.github.com/homebrew/)
+
+	
+  * [Django](https://www.djangoproject.com/)
+
+	
+  * [Werkzeug](http://werkzeug.pocoo.org/)
+
+	
+  * [PostgreSQL](http://www.postgresql.org/)
+
+

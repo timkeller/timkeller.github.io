@@ -1,0 +1,26 @@
+---
+date: '2008-04-01 22:33:36'
+layout: post
+slug: april-fools-2008
+status: publish
+title: April Fool's 2008
+wordpress_id: '168'
+categories:
+- Articles
+tags:
+- Funny
+- google
+---
+
+So this year we got a lot of really fun April Fool's jokes and gags. Google, as always, was awesome! Thank you for the fun Google! I also managed to catch out [Alain](http://twitter.com/alainkermis) and [Luke](http://twitter.com/lukemarchant), which was endlessly entertaining.
+
+**gDAY with MATE - Not bad**
+[http://www.google.com.au/intl/en/gday/index.html](http://www.google.com.au/intl/en/gday/index.html)
+
+**Gmail CustomTime - Quite Funny**
+[http://mail.google.com/mail/help/customtime/index.html](http://mail.google.com/mail/help/customtime/index.html)
+
+**Virgle - Clever, clever, clever!**
+[http://www.google.com/virgle/index.html](http://www.google.com/virgle/index.html) and [http://www.youtube.com/user/projectvirgle](http://www.youtube.com/user/projectvirgle)
+
+-Tim

@@ -1,0 +1,15 @@
+---
+date: '2006-04-28 15:37:56'
+layout: post
+slug: arg
+status: publish
+title: Arg!
+wordpress_id: '16'
+tags:
+- Randomness
+---
+
+Ah! Its FRIDAY and i'm sitting here in an Applied Maths tutorial!
+Eigenvectors... Eigenvalues... Stocastic Modeling... Random Walk theory!!!
+
+This sucks!

@@ -1,0 +1,30 @@
+---
+date: '2008-10-29 07:31:54'
+layout: post
+slug: windows-7
+status: publish
+title: Windows 7
+wordpress_id: '56913485'
+categories:
+- Articles
+tags:
+- Articles
+---
+
+For the first time in years I think I may be excited about Windows (in particular Windows 7). Until I get some time to do my own review of the M3 pre-beta, here are links to some of my favourite links.
+
+
+
+
+
+
+
+  * [[http://www.winsupersite.com/win7/win7_preview.asp](http://www.winsupersite.com/win7/win7_preview.asp)](http://www.winsupersite.com/win7/win7_preview.asp)
+
+
+  * [[http://www.winsupersite.com/win7/win7_preview_02.asp](http://www.winsupersite.com/win7/win7_preview_02.asp)](http://www.winsupersite.com/win7/win7_preview_02.asp)
+
+
+  * [[http://www.winsupersite.com/win7/win7_m3_screens_02.asp](http://www.winsupersite.com/win7/win7_m3_screens_02.asp)](http://www.winsupersite.com/win7/win7_m3_screens_02.asp)
+
+

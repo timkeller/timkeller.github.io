@@ -1,0 +1,41 @@
+---
+date: '2012-01-15 23:00:34'
+layout: post
+slug: silent
+status: publish
+title: A useful Silent Mode
+wordpress_id: '62038717'
+categories:
+- Articles
+tags:
+- apple
+- Rant
+- usability
+---
+
+Some guy's iPhone alarm clock [went off](http://www.nytimes.com/2012/01/13/nyregion/ringing-finally-stopped-but-concertgoers-alarm-persists.html?_r=2) at the New York Philharmonic last week. This despite him having the Ringer switch flicked to the "off" position. In this position the switch shows a little orange line.
+
+This weekend, the blogosphere has been a-buzz with contrasting opinions on the implementation of "silent" on the iPhone. Read [Hivelogic](http://hivelogic.com/articles/mute/) to get up to speed if necessary.
+
+Short version: iPhone's silent switch is actually not a "Silent Mode" in the Nokia or Blackberry sense of the word. It is a "Ringer Off" switch. That means that certain user-triggered activities, will still produce noise. Apple notes this in the [iPhone User Manual](http://manuals.info.apple.com/en_US/iphone_user_guide.pdf):
+
+
+> Important: Clock alarms, audio apps such as Music, and many games still play sounds through the built-in speaker when iPhone is in silent mode.
+
+
+Nevertheless, some [bloggers are calling](http://ihnatko.com/2012/01/14/daring-fireball-on-the-behavior-of-the-iphone-mute-switch/) for the switch to be changed to a Mute-All switch. This would do away with one of my favourite iPhone design decisions. In fact, I have overslept at least one important business meeting because I'd left my Blackberry on silent the night before.
+
+I need a phone that:
+
+
+
+	
+  * Stops making noise (phone calls, emails, messages) when I go to bed,
+
+	
+  * and then starts making a lot of noise when its time for me to wake up (alarm clock).
+
+
+It's pretty simple.
+
+

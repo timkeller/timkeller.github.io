@@ -1,0 +1,16 @@
+---
+date: '2006-04-24 19:16:02'
+layout: post
+slug: amy-socks
+status: publish
+title: Amy Socks
+wordpress_id: '13'
+tags:
+- Randomness
+---
+
+I got a PS chocolate from amy today... it said I dig you :) thanks amy
+
+Amy got funky Argyle socks the other day! Check 'em out:
+
+![amysocks.jpg](http://timk.co.za/wp-content/uploads/2006/04/amysocks.jpg)

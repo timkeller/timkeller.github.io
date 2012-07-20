@@ -1,0 +1,26 @@
+---
+date: '2006-07-25 13:34:11'
+layout: post
+slug: joke
+status: publish
+title: Joke
+wordpress_id: '63'
+categories:
+- Articles
+tags:
+- Funny
+---
+
+The phone bill was exceptionally high and the man of the
+house called a family meeting.
+
+**_Dad_:**  People this is unacceptable.  You have to limit the
+use of the phone.  I do not use this phone, I use the one
+at the office
+
+**_Mum_:**  Same here, I hardly use this home telephone as I
+use my work telephone
+
+**_Maid_:** So what's the problem?  We all use our work telephones.
+
+:)

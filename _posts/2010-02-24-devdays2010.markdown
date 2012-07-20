@@ -1,0 +1,71 @@
+---
+date: '2010-02-24 14:48:04'
+layout: post
+slug: devdays2010
+status: publish
+title: I'm speaking at DevDays 2010
+wordpress_id: '62038269'
+categories:
+- Articles
+tags:
+- conference
+- devdays
+- event
+- Geek
+- iis
+- java
+- microsoft
+- Opensource
+- php
+- silverlight
+- Speaking
+- Technology
+- windows
+---
+
+![](http://timk.co.za/wp-content/uploads/2010/02/devdays2010.jpg)
+
+
+
+
+Don't sit on the bench, get to DevDays 2010 and score with us! Laduuuuuuma!!!!
+
+
+
+
+It's here! Microsoft DevDays is the premier developer event of the year and is all about learning, sharing and interacting with one another and having fun! DevDays 2010 brings you the best of current developer technologies, along with a preview of soon-to-be-released Microsoft tools and technologies.
+
+
+
+
+I spoke at DevDays 2009 and had a blast. This year, I've been invited back to deliver two new talks:
+
+
+
+
+
+
+
+
+
+	
+  * **Getting started with Silverlight development**
+Interested in Silverlight development but not sure how to get started? Learn the basics of Silverlight application development – the tools and fundamental concepts behind Silverlight. Find out how to re-use your existing .NET development skills to build exciting new applications. This session will focus on the fundamentals of Silverlight including layout, data binding, data access and styling.
+
+	
+  * **Open Source and Microsoft – Working Together**
+Microsoft AND Open Source? What?! Come and learn how Microsoft platform works with open source platforms like PHP and Java form the server room and into the cloud. Come and learn how Microsoft is opening up and supporting open source development and technologies.
+
+
+
+
+
+
+
+
+Find out more, and register at [http://www.microsoft.com/southafrica/devdays/default.mspx](http://www.microsoft.com/southafrica/devdays/default.mspx)
+
+
+
+
+Most importantly, entrance is free! Please join us for a wonderful day of learning and networking.

@@ -1,0 +1,14 @@
+---
+date: '2007-05-10 23:10:40'
+layout: post
+slug: for-7-days
+status: publish
+title: For 7 days...
+wordpress_id: '121'
+tags:
+- Randomness
+---
+
+...I get to live here :) Just got this image of the view from the place we'll be staying!
+
+![Perhentian Beach](http://timk.co.za/wp-content/uploads/2007/05/perhentian.jpg)

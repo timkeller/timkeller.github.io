@@ -1,0 +1,162 @@
+---
+date: '2009-11-16 05:17:55'
+layout: post
+slug: google-go
+status: publish
+title: Google Go
+wordpress_id: '62038201'
+categories:
+- Articles
+tags:
+- '10.6'
+- compiling
+- gcc
+- Geek
+- go
+- google
+- Opensource
+- OSX
+- Programming
+- snow leopard
+- Technology
+- unix
+---
+
+![Go Logo](http://timk.co.za/wp-content/uploads/2009/11/bumper480x270.png)
+
+Google is touting its new Go language as a modern systems programming language which is expressive, concurrent, garbage-collected. Go takes the development speed of working in a dynamic language like Python, and combines it with the performance and safety of a compiled language like C or C++.
+
+In its Go FAQ, Google explains the main motivations behind the project:
+
+No major systems language has emerged in over a decade, but over that time the computing landscape has changed tremendously. There are several trends:
+
+
+
+	
+  * Computers are enormously quicker but software development is not faster.
+
+	
+  * Dependency management is a big part of software development today but the “header files” of languages in the C tradition are antithetical to clean dependency analysis—and fast compilation.
+
+	
+  * There is a growing rebellion against cumbersome type systems like those of Java and C++, pushing people towards dynamically typed languages such as Python and JavaScript.
+
+	
+  * Some fundamental concepts such as garbage collection and parallel computation are not well supported by popular systems languages.
+
+	
+  * The emergence of multicore computers has generated worry and confusion.
+
+
+Bold words from Google, especially considering the number of new languages which have come and gone over the years. Surely its too risky to put the corporate name behind the project? Not once you hear who's on the team.
+
+The project is being staffed by some serious Computer Science heavyweights: Robert Griesemer, Rob Pike (Unix Team, Plan 9 OS, UTF-8, Inferno), Ken Thompson (inventor of B - forerunner of C, UTF-8, shepherd Unix and Plan 9), Ian Taylor, Russ Cox, Jini Kim and Adam Langley.
+
+Coming from a C/C++ background during my university days, my first Go experience felt quite nostalgic. I grabbed the source via Mercurial, compiled it in the Terminal, and configured some shell environment variables. What I was left with was a native Go compiler for my x64 architecture (6g) and a Go linker (6l). These are the recommended compilation tools until the GCC-based (gccgo) version catches up.
+
+
+## Installation on Snow Leopard
+
+
+Before you follow these steps, you should have [XTools](http://developer.apple.com/TOOLS/Xcode/) installed. You should also be running Snow Leopard as your OS. These instructions should also work for 10.5 Leopard, but you may have to use GOARCH=386.
+
+
+### Environment
+
+
+Go needs a couple of shell/environment parameters to be set prior to installation.
+
+Add the following lines to your **~/.bashrc** file:
+ 
+    export GOROOT=\$HOME/Go
+    export GOOS=darwin
+    export GOARCH=amd64
+    export GOBIN=\$HOME/bin
+
+
+Now use the `source` command to apply those changes:
+    
+    source ~/.bashrc
+
+
+Next we need to add the bin directory for Go, and map it on the system path:
+    
+    mkdir -p $HOME/bin
+    echo "$HOME/bin" > go
+    sudo mv go /etc/paths.d/
+    eval `/usr/libexec/path_helper -s`
+
+
+
+
+### Source Code
+
+
+The Go team are currently using Mercurial to handle the source code. If you don't already have it installed, you can install it quickly and easily with the following command:
+
+    
+    sudo easy_install mercurial
+
+
+I encountered an issue whereby UTF-8 was not set as my locale language type. While some will not experience this, I had to force this by adding the following lines to your **~/.profile** file:
+
+    
+    export LC_ALL=en_US.UTF-8
+    export LANG=en_US.UTF-8
+
+
+Adjust according to your locale, if neccesary. Big thanks to [ricafeal](http://mytechblogdiary.wordpress.com/2009/10/04/mercurial-in-snow-leopard-utf-8-error/) for this.
+
+This will use the Python `easy_install` tool to install the mercurial package on your system. Once complete, its time to checkout a copy of the Go source code:
+
+    
+    hg clone -r release https://go.googlecode.com/hg/ $GOROOT
+
+
+This will place a full directory of Go source in the directory defined in **~/.bashrc** as $GOROOT
+
+
+### Installation
+
+
+All the Mac OS X particulars are done and you can follow the standard installation procedure. That includes:
+
+    
+    cd $GOROOT/src
+    ./all.bash
+
+
+If you get a message stating...
+
+    
+    --- cd ../test
+    N known bugs; 0 unexpected bugs
+
+
+
+... you should be good to go. Yes, pun intended.
+
+
+## Hello World
+    
+    package main
+    import "fmt"
+    func main() {
+    fmt.Printf("hello, world\n")
+    }
+
+
+To compile:
+    
+    $ 6g hello.go
+    $ 6l hello.6
+
+To execute:
+
+    
+    $ ./6.out
+    hello, world
+
+
+
+You may also want to check out [Jeremy's](http://jeremyhubert.com/articles/installing-google-go-on-osx-snow-leopard.html) great little script which lets you install the compiler (6g) and linker (6l) in one, well, go.

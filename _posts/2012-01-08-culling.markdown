@@ -1,0 +1,29 @@
+---
+date: '2012-01-08 23:24:02'
+layout: post
+slug: culling
+status: publish
+title: The Culling
+wordpress_id: '62038704'
+categories:
+- Links
+tags:
+- Education
+- matric
+---
+
+[Prof. Jonathan Jansen writes:](http://www.iol.co.za/news/south-africa/western-cape/matric-razmatazz-conceals-sad-reality-1.1209349)
+
+
+> There is a nasty micropolitics of schooling at play here. It is common knowledge that schools, under tremendous political pressure to improve their pass rates, do two things.
+
+They hold pupils back in earlier grades, especially Grade 11; and they downgrade pupils into easier subjects, such as mathematical literacy over pure mathematics.
+
+In other words, the greater the chances of pupils in Grade 12 passing, the better the school looks, the better the province looks, the better the country’s averages look.
+
+The department acknowledges what it calls “culling”.
+
+
+Pause for a moment and just think about that.
+
+This is (partly) how our education system lost 539 102 learners between enrolling in Grade One in 2000 and now.

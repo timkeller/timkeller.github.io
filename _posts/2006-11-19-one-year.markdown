@@ -1,0 +1,19 @@
+---
+date: '2006-11-19 23:01:37'
+layout: post
+slug: one-year
+status: publish
+title: One Year
+wordpress_id: '78'
+tags:
+- Randomness
+---
+
+Years seems to be going faster and faster. This weekend signals one year of working for Umoya Networks, one year of being at UCT and one year of going out with the love of my life, amy! It's really pretty scary because I so vividly recall my first day on the job at Umoya Networks, my first week at University, and my first date with Amy. It all seems like so long ago... but yet like yesterday... How amazing time is.
+
+I concluded my first year exams this week - writing Applied Maths, Psychology, and Computer Science. Maths was a challenge, but Psychology and CompSci were good me thinks. Best of luck to anyone who wants to take the Applied Maths course next year. Its one mission and a half!For my UCT friends: I recently came across  [www.sweetjane.co.za](http://www.timokeller.net/www.sweetjane.co.za ) - a local website for all things 'UCT student life' ranging from old essays and past papers, videos, images and the such. A great and interesting resource.
+
+So I got into 3 months of leave from UCT now, and it feels great. This coming week Amy's taken some time off from work to relax with me. So we're gonna be hanging out on Monday and Tuesday. I'll spend sometime at Umoya for the remainder of the week. I'm going to be developing umoya.net as well as writing a Network Traffic Monitor for them. It will grab data from our OpManager tool as well as many network nodes on the Private-MPLS (Satellite and Wireless links) and store them in a mysql database. Queries can then be run on this data.
+
+I'll then help my dad out at Sun Valley Primary, cordinating the media for their Academic Awards ceremonies. We're doing dual data-projection of each class (video, audio, image) and hoping to make all the systems work seamlessly together. At the same time I'll be starting ChirpAssess - a school assessment system to replace the present Excel-based system which is causing a world of problems. Similarly, I have to get the new 'The Cavern Today' website out by 1 December along with Adam Johnson and Bert van der Poel's help. Should be fun. I'm thinking of using the Drupal base for it - we'll see what comes of that.
+Then over the christmas break I'll be redeveloping a bunch of websites for various clients including a number of new clients. I look forward to the challenge. All in between that we'll no doubt have the Myst Online - Uru Live launch which should be stunning! All in all, a pretty full holiday!
