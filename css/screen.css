@@ -77,15 +77,15 @@ ul.posts {
   margin-bottom: 2em;
 }
 
-  ul.posts li {
-    line-height: 1.75em;
-  }
+ul.posts li {
+  line-height: 1.75em;
+}
 
-  ul.posts span {
-    color: #aaa;
-    font-family: Monaco, "Courier New", monospace;
-    font-size: 80%;
-  }
+ul.posts span {
+  color: #aaa;
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 80%;
+}
 
 /*****************************************************************************/
 /*
@@ -95,9 +95,8 @@ ul.posts {
 
 .site {
   /*font-size: 110%;*/
-  text-align: justify;
-  width: 40em;
-  margin: 2em auto 2em auto;
+  width: 620px;
+  margin: 0 auto;
   line-height: 1.5em;
 }
 
@@ -115,7 +114,7 @@ header.global {
 .title {
   color: #eee;
   font-weight: bold;
-  width: 40em;
+  width: 620px;
   margin: 0 auto;
   padding: 1.5em 0 2em 0;
   line-height: 1.5em;
@@ -324,20 +323,17 @@ ul.archives {
  * Responsive
  */
 
-@media (max-width: 767px) {
+/* 500-pixel layout for smaller screens */
+@media (max-width: 680px) {
+    article.post { width: 500px; }
+}
 
-}
-@media (min-width: 768px) and (max-width: 979px) {
-}
-@media (max-width: 480px) {
-}
-@media (max-width: 979px) {
-
-}
-@media (min-width: 980px) {
-
-}
-@media (min-width: 1200px) {
+/* 240-pixel layout for iPhone-sized screens */
+@media (max-width: 520px) {
+    article.post  { width: 300px; }
   
+    body {
+        font-size: 15px;
+    }
 }
 
