@@ -16,12 +16,12 @@ layout: nil
     <item>
       <title>{{ post.title }}</title>
       {% if post.link %}
-      <link>http://timkeller.me{{ post.url }}</link>
-      {% else %}
       <link>{{ post.link }}</link>
+      {% else %}
+      <link>http://timkeller.me{{ post.url }}</link>
       {% endif %}
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-      <author>timkeller@gmail.com (Your Name)</author>
+      <author>timkeller@gmail.com (Tim Keller)</author>
       <guid>http://timkeller.me{{ post.id }}</guid>
       <description>{{ post.content | xml_escape }}</description>
     </item>

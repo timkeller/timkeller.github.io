@@ -33,7 +33,7 @@ Tim will help you to understand the significant digital generation divide that m
 
 ## Thanks
 
-I've had the priveledge of working with these schools:
+I've had the priveledge of working with these schools and organisations:
 
 - Sun Valley Primary
 - Silvermine Academy
@@ -42,9 +42,14 @@ I've had the priveledge of working with these schools:
 - Kingswood
 - St Andrews
 - Cornwall Hill College
-- Rondebosch Boys
+- Rondebosch Boys Preparatory
 - Kirstenhof Primary School
-- Ministry of Education, Republic of Namibia
+- Westerford High School
+- South African Principals' Association
+- ADESSA
+- FutureEd
 
+## Feedback
 
 _We have received awesome feedback regarding your talk last night, from staff and parents.  It was thought-provoking, challenging and very, very helpful. Your manner of presentation was perfect for what we needed to achieve and I think you have helped position our school very well for where we are headed.  I appreciated the thought and preparation that was put into your presentation enormously and I would recommend that every school should be exposed to a presentation of this nature.  It was brilliant._
+- Somerset House, Cape Town.

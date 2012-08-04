@@ -7,8 +7,7 @@ title: Don't buy a Renault
 wordpress_id: '89'
 tags:
 - Rant
-category:
-- bestof
+comments: true
 ---
 
 My parents bought me a Renault Modus in October 2005. All was fine for the first year until my latest service, the 30 000km service. For starters, the service cost me R1400 for labour... which is well about industry standard. Then I was told that my front brake pads needed replacing, that was another R900. Then I was informed that my tires needed to be replaced urgently. Thats were the major issues started.

@@ -1,5 +1,9 @@
+url: "http://timkeller.me"
+baseurl: "http://timkeller.me"
+
 markdown: rdiscount
 pygments: true
-permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
 paginate: 10
+
 rsync_params: -avz --delete --rsh='ssh -p2223' _site/ tim@srv5.jhb.uns.za.net:/srv/timkeller.me

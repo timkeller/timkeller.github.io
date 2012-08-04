@@ -8,8 +8,6 @@ wordpress_id: '62038754'
 category: events
 ---
 
-[![](http://timkeller.me/wp-content/uploads/2012/05/SAPA-Western-Cape-2012.png)](http://www.sapaonline.co.za)
-
 I feel truly honoured (and intimidated) to be sharing the stage with some incredible speakers, thinkers, and thought leaders at SAPA Western Cape later this month.
 
 If you haven't got your tickets yet, don't walk but _run_ to [SAPAOnline](http://www.sapaonline.co.za/datastore/web/files/wc-conference-2012.pdf) to get them now. Its going to be a fantastic conference.

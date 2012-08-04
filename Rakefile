@@ -26,6 +26,16 @@ task :build do
   end
 end
 
+task :copycss do
+  print "Copying CSS... "
+  if (not which("cp"))
+    puts "Erm."
+  else
+    system "cp -r css/*.css _site/css/"
+  puts "done."
+  end
+end
+
 task :generatecss do
   print "Generating stylesheets... "
   if (not which("compass"))

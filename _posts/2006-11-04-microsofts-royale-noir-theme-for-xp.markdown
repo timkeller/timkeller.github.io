@@ -17,7 +17,7 @@ Way back when Microsoft were developing XP Media Center 2005, some hobbit at Red
 Downloading
 
 
-Extract files to �c:\windows\resources\themes\royale noir� and double click on �luna.msstyles�. Select �Noir� from color scheme. Code-signed by Microsoft. No UXTheme hack required.
+Extract files to c:\windows\resources\themes\royale noir and double click on luna.msstyles. Select Noir from color scheme. Code-signed by Microsoft. No UXTheme hack required.
 
 [http://www.tomwrote.info/downloads/royalenoir.rar](http://www.tomwrote.info/downloads/royalenoir.rar)
 
