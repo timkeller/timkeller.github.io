@@ -21,6 +21,10 @@ A UCT graduate, Tim specialised in Computer Science and Psychology, and has a pa
 
 He's also a fanatical Mac head, avid photographer, and all-round nice guy. He lives in Cape Town with his beautiful wife, [Amy](http://twitter.com/amykeller).
 
+## Interviews
+
+Tim Keller operates from the suburbs of Cape Town, South Africa. Phone interviews are often available, schedule-permitting, during the day. Please [email](/contact) to set up a phone interview if necessary.
+
 ## Even more
 
 My CV is [available here](/cv).

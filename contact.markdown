@@ -7,7 +7,7 @@ title: Contact
 wordpress_id: '175'
 ---
 
-- _Email:_ timkeller@umoya.net
+- _Email:_ tim@umoya.net
 
 - _Telephone:_ +27.21.7024848
 
