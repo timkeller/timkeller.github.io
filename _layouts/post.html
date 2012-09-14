@@ -2,10 +2,11 @@
 layout: default
 ---
 
+<div class="post">
 {% if page.link %}
-<article class="link">
+<article class="page">
 {% else %}
-<article class="post">
+<article class="page">
 {% endif %}
 	<header>
 		{% if page.link %}
@@ -35,3 +36,4 @@ layout: default
         <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
     {% endif %}
 </article>
+</div>

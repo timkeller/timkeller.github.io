@@ -19,7 +19,7 @@ Tim created the [staffroom](http://mystaffroom.net) unified school management sy
 
 A UCT graduate, Tim specialised in Computer Science and Psychology, and has a particular interest in building systems which are intuitive and easy to use. He is passionate about the intersection of technology and education and has spoken about this at various conferences and schools across the country.
 
-He's also a fanatical Mac head, avid photographer, and all-round nice guy. He lives in Cape Town with his beautiful wife, [Amy](http://twitter.com/amykeller).
+He's also a fanatical Mac head, avid photographer, and all-round nice guy. He lives in Cape Town with his beautiful wife, [Amy](http://cre8thoughts.com).
 
 ## Interviews
 
@@ -31,7 +31,11 @@ My CV is [available here](/cv).
 
 ## Photographs
 
-<img src="/img/bio-tim-colour.jpg" class="polaroid" width="250px">
-<img src="/img/bio-tim-bw.jpg" class="polaroid" width="250px">
+<img src="/img/bio-tim-colour.jpg" class="img img-rounded" width="250px">
+<img src="/img/bio-tim-bw.jpg" class="img img-rounded" width="250px">
 
 You might also like to <a href="/img/bio-tim-colour-full.jpg" target="_blank">download</a> a high resolution copy.
+
+## Can I buy you a present?
+
+You're too kind. And, yes. You may. Here's my <a href="http://www.amazon.com/registry/wishlist/12RF3H3TXA7CX/ref=cm_wl_rlist_go_o_T1-1" target="_blank">wish list</a>.

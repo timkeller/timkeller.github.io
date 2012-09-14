@@ -3,19 +3,24 @@ layout: default
 title: Tim Keller – Technology and the future of Learning
 ---
 
-<div id="home">
+<div id="topframe">
+  <div id="topbox">
+    <p class="lead">Articles and links about Technology and the Future of Learning by Software Developer, Speaker, and intolerable geek – <b>Tim Keller</b>. </p>
+  </div>
+</div>
+
 
 {% for post in paginator.posts %}
 {% unless post.draft %}
-
+<div class="post">
   {% if post.link %}
-  <article class="link">
+  <article class="linkbody">
   {% else %}
-  <article class="post">
+  <article class="postbody">
   {% endif %}
     <header>
       {% if post.link %}
-      <h1><a href="{{ post.link }}" class="link">{{ post.title }}</a><span class="linkarrow"> →</span></h1>
+      <h1><a href="{{ post.link }}" class="link" target="_blank">{{ post.title }}</a><span class="linkarrow"> →</span></h1>
       {% else %}
       <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
       {% endif %}
@@ -25,24 +30,28 @@ title: Tim Keller – Technology and the future of Learning
       </p>
     </header>
     {{ post.content }}
-    <div class="fin">◆</div>
   </article>
+  </div>
+  <hr class="between">
 {% endunless %}
 {% endfor %}
 
+<div class="post">
+
 <!-- Pagination links -->
-<div class="pagination">
+<ul class="pager">
   {% if paginator.previous_page %}
-    <a href="/page{{paginator.previous_page}}" class="previous">Previous</a>
+    <li class="previous"><a href="/page{{paginator.previous_page}}" class="previous">Older posts</a></li>
   {% else %}
     <span class="previous">Previous</span>
   {% endif %}
   <span class="page_number ">{{paginator.page}} of {{paginator.total_pages}}</span>
   {% if paginator.next_page %}
-    <a href="/page{{paginator.next_page}}" class="next ">Next</a>
+    <li class="next"><a href="/page{{paginator.next_page}}" class="next ">Next</a></li>
   {% else %}
     <span class="next ">Next</span>
   {% endif %}
-</div>
+</ul>
+
 
 </div>

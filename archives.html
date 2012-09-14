@@ -2,12 +2,14 @@
 layout: default
 title: Posts
 ---
+<div class="post">
+
 <article class="page">
 	<header>
-	  <h1>Archives</h1>
+	  <h1 class="pageheader">Archives</h1>
 	 </header>
 
-<ul class="archives">
+<ul class="unstyled">
   {% for post in site.posts %}
     {% unless post.draft %}
     {% unless post.next %}
@@ -25,3 +27,5 @@ title: Posts
   {% endfor %}
 </ul>
 </article>
+
+</div>

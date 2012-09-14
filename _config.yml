@@ -6,4 +6,4 @@ pygments: true
 permalink: /:year/:month/:day/:title/
 paginate: 10
 
-rsync_params: -avz --delete --rsh='ssh -p2223' _site/ tim@srv5.jhb.uns.za.net:/srv/timkeller.me
+rsync_params: -az --delete --rsh='ssh -p2223' _site/ tim@srv5.jhb.uns.za.net:/srv/timkeller.me
