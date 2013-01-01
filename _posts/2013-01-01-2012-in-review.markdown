@@ -1,0 +1,31 @@
+---
+date: '2013-01-01 14:29:02'
+layout: post
+slug: 2013-01-01-2012-in-review
+status: publish
+title: 2012 in review
+---
+
+
+I loved this year. That's not to say it wasn't extremely difficult at times, or that some singular great thing happened. It was just a really good year.
+
+I wrote at the end of 2011 about my [goals and objectives][1] for the year, and they were fairly audacious. 
+
+This year at Umoya we re-wrote most of [staffroom][2], released more than 200 features and tweaks, migrated to cloud servers, and switched from Subversion to Git. We reinvigorated our brand, redefined our purpose, built some amazing new relationships, and signed a few of large deals. We finally updated our [website][3], hired some wonderful [new][thembisa] [people][graeme] and deployed our first two international sites.
+
+At [EdTechConf][edtechconf] we hosted two ThinkShop events - a Tablet Indaba at the International School of Cape Town, and a great community event at Rondebosch Boys' High. We re-organised the leadership team and made a new website.
+
+Personally I finally got diagnosed with ADHD, got the right treatment, had my (long overdue) wisdom teeth extraction, took on more responsibility at Umoya, bought a [new house][house], welcomed a furry friend into our family, and celebrated three years with my wife.
+
+At the outset, my goal included many of these things. They also included a few things I didn't achieve: writing once a week for this blog and starting a podcast focussed on education technology. I managed to publish just 35 posts and several of them were brief comments or links, and I recorded just one podcast about Windows 8. 
+
+As I set new goals for 2013, I'm acutely aware that my list already contains more items than I'll have time to do. Indeed the best goal I could choose for 2013 would probably be to learn a more judious approach to allocating my time and attention. 
+
+
+[1]: http://www.timkeller.me/2011/12/31/the-next-three/
+[2]: http://mystaffroom.net
+[3]: http://umoya.net
+[graeme]: http://umoya.net/2012/12/graeme-is-a-umoyite/
+[thembisa]: http://umoya.net/2012/03/thembisa-is-a-umoyite/
+[edtechconf]: http://edtechconf.co.za
+[house]: http://www.timkeller.me/2012/10/12/house-2-0/

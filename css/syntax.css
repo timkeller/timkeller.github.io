@@ -10,8 +10,8 @@
 	width: 250px;
 	padding: 40px 0 0 0;
 	border-right: 1px solid #e3e3e3;
-	background-color:#efefef;
-	background: url('/img/gplaypattern.png') repeat;
+	background-color:#fff;
+	/*background: url('/img/gplaypattern.png') repeat;*/
 }
 
 #sidebar h1 {
