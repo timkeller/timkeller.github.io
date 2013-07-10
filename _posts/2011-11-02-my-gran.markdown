@@ -10,9 +10,14 @@ post_format:
 tags:
 - Family
 - Inspiration
+- bestof
 ---
 
-![](http://timkeller.me/wp-content/uploads/2011/11/TimAmy_Wedding031-1024x682.jpg)
+<div class="wide-image">
+  		<img src="/assets/2011-11-02-my-gran/TimAmy_Wedding031-1024x682.jpg" alt="My gran at our wedding">
+  		<div class="caption">My gran at our wedding</div>
+</div>
+
 
 That’s my gran right in the middle. She passed away last night.
 

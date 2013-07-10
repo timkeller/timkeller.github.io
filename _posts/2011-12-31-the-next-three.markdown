@@ -9,6 +9,7 @@ categories:
 - Articles
 tags:
 - personal
+- bestof
 ---
 
 Three years seems to be a familiar cadence in my life: three years of junior high, three years of high school, three years of university, and so on.

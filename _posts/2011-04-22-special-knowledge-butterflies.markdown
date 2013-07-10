@@ -17,6 +17,7 @@ tags:
 - Psychology
 - shipping
 - work
+- bestof
 ---
 
 Flying poses some challenges. It requires at least an hour-long process of security, and baggage checks… not to mention the cost of the obligatory cuppachino while one waits for the gates to open. Boarding is followed by a further 30-minutes of thumb-twiddling while the cabin crew apparently “arm doors and cross-check” (which I still don’t understand).

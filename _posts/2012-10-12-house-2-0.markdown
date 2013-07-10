@@ -12,13 +12,12 @@ We've lived in our first home since we got married three years ago. It has been 
 
 House 2.0 has more rooms, more garden, a great kitchen, dining room and lounge. Its in a nearby neighbourhood and so we won't have to reconfigure our travel routines too much. I think we'll live there for several years.
 
+<div class="wide-image">
+  		<img src="/assets/2012-10-12-house-2-0/bedroom.jpeg" alt="Bedroom">
+  		<div class="caption">Main Bedroom</div>
+</div>
 
-<figure>
-  <img src="/assets/2012-10-12-house-2-0/bedroom.jpeg" alt="Bedroom">
-  <figcaption>Main Bedroom</figcaption>
-</figure>
-
-<figure>
+<div class="wide-image">
   <img src="/assets/2012-10-12-house-2-0/kitchen.jpeg" alt="Kitchen">
-  <figcaption>Kitchen, recently remodelled</figcaption>
-</figure>
+  <div class="caption">Kitchen</div>
+</div>

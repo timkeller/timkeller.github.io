@@ -16,7 +16,7 @@ tags:
 - Technology
 ---
 
-[![](http://timkeller.me/wp-content/uploads/2012/01/640px-Commodore-64-Computer.png)](http://timkeller.me/wp-content/uploads/2012/01/640px-Commodore-64-Computer.png)This month marks exactly 30 years since the announcement of the [Commodore 64](http://en.wikipedia.org/wiki/Commodore_64) - the 8-bit home computer which outsold IBM PC-clones, Apple Computers and Atari's for much of the 1980's. It dominated with 35% market share from 1983 to 1986, eventually selling 17 million units, making it the first computer for "ordinary people".
+[![](/assets/2012-01-03-the-commodore-64-is-30-years-old/640px-Commodore-64-Computer.png)](/assets/2012-01-03-the-commodore-64-is-30-years-old/640px-Commodore-64-Computer.png)This month marks exactly 30 years since the announcement of the [Commodore 64](http://en.wikipedia.org/wiki/Commodore_64) - the 8-bit home computer which outsold IBM PC-clones, Apple Computers and Atari's for much of the 1980's. It dominated with 35% market share from 1983 to 1986, eventually selling 17 million units, making it the first computer for "ordinary people".
 
 The C64 featured a whopping 1Mhz CPU, 16Kb of RAM, and 16-colour TV display output. Input was via the built-in keyboard or plug-in joy-sticks. Storage was via an external floppy drive or tape recorder. The tape drive would take up to 30 minutes to load-in a game or programme.
 

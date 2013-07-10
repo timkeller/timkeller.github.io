@@ -8,5 +8,3 @@ link: http://www.economist.com/news/leaders/21564846-south-africa-sliding-downhi
 ---
 
 The Economist’s cover is a punch to the stomach of every South African. We forget what an example we are to the world. Well, “were”.
-
-<img src="/assets/2012-10-19-cry-the-beloved-country/cover.png">

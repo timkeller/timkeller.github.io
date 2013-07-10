@@ -4,6 +4,7 @@ layout: post
 slug: the-one-classroom
 status: publish
 title: The One Classroom
+tag: bestof
 ---
 
 Imagine a school that provided high quality education to anyone who wanted it. Whether young or old, rich or poor, its doors would be open 24 hours a day. Imagine that it provided instruction on topics from basic mathematics to vector calculus. From chemistry to astronomy. Microeconomics to Healthcare. Imagine that this school held a million students and provided them with more than 150 000 lessons each day on nearly 4000 different topics.

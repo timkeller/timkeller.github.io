@@ -7,6 +7,7 @@ title: Don't buy a Renault
 wordpress_id: '89'
 tags:
 - Rant
+- bestof
 comments: true
 ---
 

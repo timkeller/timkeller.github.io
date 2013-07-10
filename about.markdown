@@ -3,15 +3,16 @@ date: '2008-12-18 21:26:34'
 layout: page
 slug: about
 status: publish
-title: About
-wordpress_id: '2'
+title: About Tim
 ---
 
-## [tl;dr](https://en.wiktionary.org/wiki/TL;DR)
+<div class="wide-image">
+  	<img src="/img/about-tim-marquee.jpg" alt="Tim Keller">
+</div>
 
-Tim Keller is an entrepreneur, software developer, and speaker from Cape Town, South Africa.
+## Briefly
 
-He looks after Product Development of [Umoya's](http://umoya.net) education apps, and speaks regularly at education conferences across South Africa. He's the co-founder of EdTechConf, a grassroots conference for high tech teachers on a low-tech budget.
+{% include about-short.markdown %}
 
 ## A little more
 
@@ -31,8 +32,8 @@ My CV is [available here](/cv).
 
 ## Photographs
 
-<img src="/img/bio-tim-colour.jpg" class="img img-rounded" width="250px">
-<img src="/img/bio-tim-bw.jpg" class="img img-rounded" width="250px">
+<a href="/img/bio-tim-colour.jpg" target="_blank"><img src="/img/bio-tim-colour.jpg" class="img img-rounded" width="100px"></a>
+<a href="/img/bio-tim-bw.jpg" target="_blank"><img src="/img/bio-tim-bw.jpg" class="img img-rounded" width="100px"></a>
 
 You might also like to <a href="/img/bio-tim-colour-full.jpg" target="_blank">download</a> a high resolution copy.
 

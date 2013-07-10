@@ -17,6 +17,7 @@ tags:
 - staffroom
 - warcraft
 - wow
+- bestof
 ---
 
 > The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn.
@@ -45,10 +46,15 @@ In the age of transparency, students and parents want measurable data and facts.
 
 Imagine if our students' report cards looked a little more like this:
 
-[![](http://timk.co.za/wp-content/uploads/2010/10/schoolachievements.jpg)](http://timk.co.za/wp-content/uploads/2010/10/schoolachievements.jpg)
+
+<div class="wide-image">
+  		<img src="/assets/2010-10-08-learn-unlearn-relearn/schoolachievements.jpg" alt="Report Card 2.0">
+  		<div class="caption">Report Card 2.0</div>
+</div>
+
 
 Schools seem to be in the business of helping students to unlearn what they pick up in the real world of cell phones, games and facebook. What if, rather, our schools unlearned their 19th century habits, and relearned what 21st century students need to get out of the education process. Let's embrace our students' world.
 
 
-> In the 2st century, education is about project-based learning, connections with peers around the world, service learning, independent research, design and creativity, and, more than anything else, critical thinking and challenges to old assumptions.
+> In the 21st century, education is about project-based learning, connections with peers around the world, service learning, independent research, design and creativity, and, more than anything else, critical thinking and challenges to old assumptions.
 - Prakash Nair

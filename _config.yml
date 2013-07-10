@@ -1,9 +1,12 @@
 url: "http://timkeller.me"
 baseurl: "http://timkeller.me"
 
-markdown: rdiscount
+markdown: kramdown
 pygments: true
 permalink: /:year/:month/:day/:title/
 paginate: 10
 
-rsync_params: -az --delete --rsh='ssh -p2223' _site/ tim@srv5.jhb.uns.za.net:/srv/timkeller.me
+rsync_params: -az --delete --rsh='ssh' _site/ root@timkeller.me:/srv/timkeller.me
+
+tag_page_layout: tag_page
+tag_page_dir: tag

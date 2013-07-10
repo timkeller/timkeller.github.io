@@ -10,6 +10,7 @@ categories:
 tags:
 - Education
 - matric
+- bestof
 ---
 
 South African students will breathe a sigh of relief tomorrow morning as the 2011 Matric results are released. This evening we got the summary data, and in general the numbers are good. 70,2% of state-school candidates passed (up 2% from 2010) and 24,3% gaining university entrance (up just under 1%).
@@ -18,22 +19,13 @@ Students attending independent schools (which sit the equivalent [IEB](http:/
 
 To make sense of these results I gathered government data for the last four years:
 
-[![](http://timkeller.me/wp-content/uploads/2012/01/Screen-Shot-2012-01-04-at-10.12.09-PM.png)](http://timkeller.me/wp-content/uploads/2012/01/Screen-Shot-2012-01-04-at-10.12.09-PM.png)
+[![](/assets/2012-01-04-matric-2011-in-review/Screen-Shot-2012-01-04-at-10.12.09-PM.png)](/assets/2012-01-04-matric-2011-in-review/Screen-Shot-2012-01-04-at-10.12.09-PM.png)
 
 Matric pass rate, per year (Overall pass rate and university entrance obtained, respectively):
 
-
-
-	
   * 2008: 62,5% and 20,2%
-
-	
   * 2009: 60,7% and 19,6%
-
-	
   * 2010: 67,8% and 23,5%
-
-	
   * 2011: 70,2% and 24,3%
 
 

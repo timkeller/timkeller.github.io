@@ -14,10 +14,9 @@
 
     <link href="http://timkeller.me/feed/" rel="alternate" title="Tim Keller" type="application/atom+xml" />
 
-    <link rel="stylesheet" href="/css/bootstrap.css" type="text/css" />
-    <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
-<!--     <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
- -->
+    <link rel="stylesheet" href="/css/style-three.css?4" type="text/css" />
+    <script src="/js/application.js?1"></script>
+
     <!-- Google Analytics -->
     <script type="text/javascript">
       var analyticsFileTypes = [''];
@@ -38,48 +37,59 @@
     <!-- Google Analytics end -->
   </head>
   <body>
-      
 
-    <div id="contentframe">
+    <header id="page-header">
+        <div id="site-title">
+            <a href="/"><img src="/img/tim-round.png" class="img-circle" id="logo">
+            <h1>Tim Keller</h1>
+            <h2>Technology and the Future of Learning</h2></a>
+
+            <nav id="site-nav">
+      <ul>
+        <li><a href="/about">About</a></li>
+        <li><a href="/speaking">Speaking</a></li>
+        <li><a href="/projects">Projects</a></li>
+        <li><a href="/contact">Contact</a></li>
+
+        <li><a href="/archives">Archive</a></li>
+        <li><a href="/search">Search</a></li>
+      
+      </ul>
+  </nav>
+        </div>
+
+        
+
+  </header> 
+<hr class="between">
+    <div class="main-content">
 
       {{ content }}
-      
-<!--       <div class="footer">
-        <p>&copy; 2006-2012 Tim Keller &bull;
-          Developer at <a href="http://umoya.net/">Umoya</a>, Speaker, Geek
-          &bull;
-          <a href="/feed/">RSS</a> & <a href="http://twitter.com/by_timkeller">Twitter</a>
-        </p>
-      </div> -->
-
+    
     </div>
 
-    <div id="sidebar">
+    <hr class="between">
 
-      <div id="title">
-        <a href="/"><img src="/img/tim-round.png" class="img-circle"></a>
-        <h1>Tim Keller</h1>
-        <p>Technology and the<br>Future of Learning</p>
-      </div>
+    {% if page.slug != 'about' %}
+    <section id="about">
+    <h3>About the author</h3>
+    <p>{% include about-short.markdown %} <a href="/about">More...</a></p> 
+    </section>
+    {% endif %}
 
-      <ul class="nav nav-pills nav-stacked" id="menu">
-        <li><a class="" href="/about">About</a></li>
-        <li><a class="extra" href="/speaking">Speaking</a></li>
-        <li><a class="extra" href="/projects">Projects</a></li>
-        <li><a class="extra" href="/contact">Contact</a></li>
-        <li><a class="extra" href="/archives">Archive</a></li>
-        <li><a class="extra" href="http://insta.timkeller.me">iPhoneography</a></li>
-        <li><a class="extra" href="/search">Search</a></li>
-      </ul>
-
-      <ul class="nav nav-list" id="elsewhere" style="margin-top: 15px">
-        <li class="nav-header">You'll also find me here</li>
-        <li><a href="http://twitter.com/timkeller" target="_blank"><img src="http://twitter.com/favicon.ico" style="max-height:15px"class="pull-left"> Twitter</a></li>  
-        <li><a href="http://github.com/timkeller" target="_blank"><img src="http://github.com/favicon.ico" style="max-height:15px" class="pull-left"> Github</a></li>
-        <li><a href="http://www.linkedin.com/in/timkeller" target="_blank"><img src="http://www.linkedin.com/favicon.ico" style="max-height:15px" class="pull-left"> LinkedIn</a></li>
-      </ul>
-
-    </div>
+      <footer id="page-footer">
+  <nav>
+  <ul id="footer-nav">
+  <li><a href="/contact">Contact</a></li>
+  <li><a href="http://twitter.com/timkeller">Twitter</a></li>
+  <li><a href='https://alpha.app.net/timkeller' rel='me'>App.net</a></li>
+  <li><a href="http://www.linkedin.com/in/timkeller">LinkedIn</a></li>
+  </ul>
+  </nav>
+  <div id="copyright">
+  <a href="/versions">Copyright © 2005 - 2013 Tim Keller</a>
+  </div>
+  </footer>
 
   </body>
 </html>

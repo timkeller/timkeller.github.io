@@ -21,7 +21,7 @@ task :build do
   if (not which("jekyll"))
     puts " *** jekyll executable not found."
   else
-    system "jekyll > /dev/null 2>&1"
+    system "jekyll"
   puts "done."
   end
 end

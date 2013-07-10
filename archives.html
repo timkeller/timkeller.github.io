@@ -9,20 +9,22 @@ title: Posts
 	  <h1 class="pageheader">Archives</h1>
 	 </header>
 
-<ul class="unstyled">
+   <p><i>Best of me:</i> I really like <a href="/tag/bestof">these posts</a>.</p>
+
+<ul class="postlist">
   {% for post in site.posts %}
     {% unless post.draft %}
     {% unless post.next %}
-      <h2>{{ post.date | date: '%Y' }}</h2>
+      <h2 class="dateline">{{ post.date | date: '%Y' }}</h2>
     {% else %}
       {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
       {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
       {% if year != nyear %}
-        <h2>{{ post.date | date: '%Y' }}</h2>
+        <h2 class="dateline">{{ post.date | date: '%Y' }}</h2>
       {% endif %}
     {% endunless %}
 
-    <li><span>{{ post.date | date:"%b" }} &mdash; </span><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><a href="{{ post.url }}">{{ post.title }}</a>{% if post.link %} [ <a href="{{ post.link }}" target="_blank">Link</a> ]{% endif %}</li>
   {% endunless %}
   {% endfor %}
 </ul>

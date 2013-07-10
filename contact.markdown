@@ -3,12 +3,33 @@ date: '2008-08-04 01:58:39'
 layout: page
 slug: contact
 status: publish
-title: Contact
-wordpress_id: '175'
+title: Contact Tim
 ---
 
-- _Email:_ tim@umoya.net
+<div class="wide-image">
+  	<img src="/img/contact-marquee.jpg" alt="Tim Keller">
+  	<div class="caption">
+  		Me, literally just waiting for your email.
+  	</div>
+</div>
 
-- _Telephone:_ +27.21.7024848
 
-- _Twitter:_ @timkeller
+<div class="main-content">
+	<p>Please use the form below to send me a message. I'll do my best to respond timeously, but if your message is urgent please <a href="http://umoya.net/contact">call my office</a> during business hours.
+
+	<div style="margin:0 auto; width:600px">
+
+		<form class="form" action="http://getsimpleform.com/messages?form_api_token=153d60bf4e2424787467d2291cd25e45" method="post">
+			<fieldset>
+			  <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
+			  <input type='hidden' name='redirect_to' value='http://timkeller.me/contact-thanks' />
+			  <!-- all your input fields here.... -->
+			  <input type="text" name="name" placeholder="Your name"><br>
+			  <textarea name="message" style="height:200px; width:400px" placeholder="Message..."></textarea><br>
+			  <input type='submit' value='Send' />
+			</fieldset>
+		</form>
+
+	</div>
+
+</div>

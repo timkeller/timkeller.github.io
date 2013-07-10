@@ -1,17 +1,11 @@
 ---
 layout: default
-title: Tim Keller – Technology and the future of Learning
+title: Tim Keller – Technology and the Future of Learning
 ---
-
-<div id="topframe">
-  <div id="topbox">
-    <p class="lead">Articles and links about Technology and the Future of Learning by Software Developer, Speaker, and intolerable geek – <b>Tim Keller</b>. </p>
-  </div>
-</div>
 
 
 {% for post in paginator.posts %}
-{% unless post.draft %}
+{% unless post.status == 'draft' %}
 <div class="post">
   {% if post.link %}
   <article class="linkbody">
@@ -20,14 +14,14 @@ title: Tim Keller – Technology and the future of Learning
   {% endif %}
     <header>
       {% if post.link %}
-      <h1><a href="{{ post.link }}" class="link" target="_blank">{{ post.title }}</a><span class="linkarrow"> →</span></h1>
+      <h1 class="title"><a href="{{ post.link }}" class="link" target="_blank">{{ post.title }}</a><span class="linkarrow"> →</span></h1>
       {% else %}
-      <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+      <h1 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
       {% endif %}
-      <p>
-        <time datetime="{{ post.date | date_to_xmlschema }}" pubdate="pubdate">{{ post.date | date_to_string }}</time>
+      <div class="published">
+        <time datetime="{{ post.date | date_to_xmlschema }}" pubdate="pubdate">{{ post.date | date_to_long_string }}</time>
         • <a class="permalink" title="Permalink" href="{{ post.url }}">∞</a>
-      </p>
+      </div>
     </header>
     {{ post.content }}
   </article>
@@ -36,22 +30,14 @@ title: Tim Keller – Technology and the future of Learning
 {% endunless %}
 {% endfor %}
 
-<div class="post">
-
-<!-- Pagination links -->
-<ul class="pager">
-  {% if paginator.previous_page %}
-    <li class="previous"><a href="/page{{paginator.previous_page}}" class="previous">Older posts</a></li>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">{{paginator.page}} of {{paginator.total_pages}}</span>
-  {% if paginator.next_page %}
-    <li class="next"><a href="/page{{paginator.next_page}}" class="next ">Next</a></li>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
-</ul>
-
-
+<div class="pager">
+    {% if paginator.previous_page %}
+    <a href="/page{{paginator.previous_page}}" class="previous">&larr; Previous</a></li>
+    {% endif %}
+    
+    <span class="page_number "><i>{{paginator.page}} <i>of</i> {{paginator.total_pages}}</i></span>
+    
+    {% if paginator.next_page %}
+    <a href="/page{{paginator.next_page}}" class="next ">Next &rarr;</a></li>
+    {% endif %}
 </div>

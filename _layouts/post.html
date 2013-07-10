@@ -10,17 +10,19 @@ layout: default
 {% endif %}
 	<header>
 		{% if page.link %}
-		<h1><a href="{{ page.link }}" class="link">{{ page.title }}</a><span class="linkarrow"> →</span></h1>
+		<h1 class="title"><a href="{{ page.link }}" class="link">{{ page.title }}</a><span class="linkarrow"> →</span></h1>
 		{% else %}
-		<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+		<h1 class="title"><a href="{{ page.url }}">{{ page.title }}</a></h1>
 		{% endif %}
-		<p>
-			<time datetime="{{ page.date | date_to_xmlschema }}" pubdate>{{ page.date | date_to_string }}</time>
+		<div class="published">
+			<time datetime="{{ page.date | date_to_xmlschema }}" pubdate>{{ page.date | date_to_long_string }}</time>
 			•
             <a class="permalink" title="Permalink" href="{{ page.url }}">∞</a>
-		</p>
+		</div>
 	</header>
+	<div class="content">
 	{{ content }}
+	</div>
 
 	{% if page.comments %}
 	    <div id="disqus_thread"></div>

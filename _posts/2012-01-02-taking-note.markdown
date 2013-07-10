@@ -14,6 +14,7 @@ tags:
 - Technology
 - windows
 - writing
+- bestof
 ---
 
 Let's talk about how we go about remembering _stuff_ with a few simple (and free) tools for the Mac, PC, Web, and iPhone/iPad.
@@ -66,7 +67,9 @@ Let’s divide the user interface into three parts, top to bottom:
   3. the text editor.
 
 
-[![](http://timkeller.me/wp-content/uploads/2012/01/NotationalScreen1.png)](http://timkeller.me/wp-content/uploads/2012/01/NotationalScreen1.png)The Text field has the uncanny (and awesome) ability to both _search_ and _create_ notes. As you type, a full-text, incremental, live search is done across all of your notes. That is, within both the filename and file contents. If you hit _Return_ (or _Enter_) at any point, you generate a new note with its title set to whatever you just typed. From there, the cursor is automatically moved to the third area - the note editor, and you just start typing your note. It feels incredibly natural.
+[![](/assets/2012-01-02-taking-note/NotationalScreen1.png)](/assets/2012-01-02-taking-note/NotationalScreen1.png)
+
+The Text field has the uncanny (and awesome) ability to both _search_ and _create_ notes. As you type, a full-text, incremental, live search is done across all of your notes. That is, within both the filename and file contents. If you hit _Return_ (or _Enter_) at any point, you generate a new note with its title set to whatever you just typed. From there, the cursor is automatically moved to the third area - the note editor, and you just start typing your note. It feels incredibly natural.
 
 The list of notes shows every note in your notes directory - along with a preview of their contents and date last modified. As you search, this list will update in realtime to show matching notes.
 
@@ -86,16 +89,12 @@ SimpleNote is an online note-syncing service that automatically syncs with Notat
 
 And it get’s better: If you have a iPhone, iPad or iPod Touch, you can download the [SimpleNote iOS app](http://simplenoteapp.com/downloads/itunes.html) (again, for free) and have access to all of your notes - complete with searching and tagging. This is great for note-taking during meetings, conferences and calls.
 
-[![](http://timkeller.me/wp-content/uploads/2012/01/simplenoteipad.jpg)](http://timkeller.me/wp-content/uploads/2012/01/simplenoteipad.jpg)
+[![](/assets/2012-01-02-taking-note/simplenoteipad.jpg)](/assets/2012-01-02-taking-note/simplenoteipad.jpg)
 
 So, go and get that set up and let me know how it goes. I’ll post some power-user tips in the coming days.
 
 
 ## Links
-
-
-
-
 
 	
   * [Notational Velocity for Mac](http://www.notational.net)
