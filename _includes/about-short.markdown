@@ -1,0 +1,1 @@
+<a href="/about">Tim Keller</a> is an entrepreneur, software developer, and speaker from Cape Town, South Africa. He looks after Product Development at Umoya Networks, and speaks regularly at education conferences across South Africa. 
