@@ -1,9 +1,8 @@
 ---
-date: '2013-01-04 22:50:00'
 layout: post
-slug: 2013-01-04-xbox-360-frankencable
-status: publish
-title: The XBox 360 Frankencable
+title: "The XBox 360 Frankencable"
+date: '2013-01-04 22:50:00'
+tags: gaming diy maker
 ---
 
 I finally got an XBox 360 [^1] this year. I've never been a serious console gamer but the slow demise of my [beloved](/2010/10/08/learn-unlearn-relearn/) World of Warcraft and a promotional price convinced me to indulge a little. Turns out I really like it - thanks in no small part to the incredible Halo 4.
@@ -13,8 +12,8 @@ For most of its life, its been plugged into the HD TV in the living room. This a
 However coming from the PC world, the couch-based gaming experience never quite felt right. I'm acustomed to playing from an upright chair with my nose 50cm away from the computer monitor. I needed to move the console upstairs to my study. There was just one problem: my Samsung monitor supports HDMI, but has neither internal speakers nor an audio-out port. So the HDMI audio is sent to my screen and promptly ignored.
 
 <div class="wide-image">
-  		<img src="/assets/2013-01-04-xbox-frankencable/av-cable.jpg" alt="XBox 360 AV cable">
-  		<div class="caption">XBox 360 AV connector with Video and Stereo Audio RCA connectors</div>
+        <img src="/assets/2013-01-04-xbox-frankencable/av-cable.jpg" alt="XBox 360 AV cable">
+        <div class="caption">XBox 360 AV connector with Video and Stereo Audio RCA connectors</div>
 </div>
 
 The XBox 360 offers two ports for audio and video output – standard HDMI and some proprietary interface labeled "AV". This analogue port is used with the (included) [Microsoft XBox 360 AV Cable](http://www.gamesx.com/avpinouts/xbox.htm) to provide old-school (Yellow, Red, Black) RCA connectors for older televisions. But this still wasn't what I needed: HDMI video and analogue stereo audio. Even worse, the plastic connector at the end Microsoft's AV Cable is built such it blocks the HDMI port when plugged in. 

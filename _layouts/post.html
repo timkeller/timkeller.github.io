@@ -2,40 +2,39 @@
 layout: default
 ---
 
-<div class="post">
 {% if page.link %}
-<article class="page">
+<h2 class="title"><a href="{{ page.link }}" class="link" target="_blank">{{ page.title }}</a><span class="linkarrow"> →</span></h2>
 {% else %}
-<article class="page">
+<h2 class="title"><a href="{{ page.url }}">{{ page.title }}</a></h2>
 {% endif %}
-	<header>
-		{% if page.link %}
-		<h1 class="title"><a href="{{ page.link }}" class="link">{{ page.title }}</a><span class="linkarrow"> →</span></h1>
-		{% else %}
-		<h1 class="title"><a href="{{ page.url }}">{{ page.title }}</a></h1>
-		{% endif %}
-		<div class="published">
-			<time datetime="{{ page.date | date_to_xmlschema }}" pubdate>{{ page.date | date_to_long_string }}</time>
-			•
-            <a class="permalink" title="Permalink" href="{{ page.url }}">∞</a>
-		</div>
-	</header>
-	<div class="content">
-	{{ content }}
-	</div>
 
-	{% if page.comments %}
-	    <div id="disqus_thread"></div>
-        <script type="text/javascript">
-            var disqus_shortname = 'timkellerblog';
-            (function() {
-                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-                dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-            })();
-        </script>
-        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+<p class="meta">
+    {% if page.link %}
+    {% else %}
+    <iframe border="0" scrolling="no" width="78" height="17" allowtransparency="true" frameborder="0" style="margin-bottom: -3px; z-index: 1338; border: 0px; background-color: transparent; overflow: hidden;" src="http://www.instapaper.com/e2?url={{ page.url | uri_escape }}&amp;title={{ page.title | uri_escape }}"></iframe>&nbsp;
     {% endif %}
-</article>
+
+    <time datetime="{{ page.date | date_to_xmlschema }}" pubdate="pubdate">{{ page.date | date_to_long_string }}</time> &middot; <a class="permalink" title="Permalink" href="{{ page.url }}">Permalink</a> &middot; This post is a link. <a href="{{ page.link }}">Read the full story</a>
+</p>
+
+<div id="post">
+    {{ content }}
 </div>
+
+<div id="page-navigation"> 
+        <div class="clear">&nbsp;</div> 
+        <div class="left"> 
+        {% if page.previous.url %} 
+                <a href="{{page.previous.url}}" title="Previous Post: 
+{{page.previous.title}}"><b>Previous:</b> {{page.previous.title}}</a> 
+        {% endif %} 
+        </div> 
+
+        <div class="right"> 
+        {% if page.next.url %} 
+                <a href="{{page.next.url}}" title="next Post: 
+{{page.next.title}}"><b>Next:</b> {{page.next.title}}</a> 
+        {% endif %} 
+        </div> 
+        <div class="clear">&nbsp;</div> 
+</div> 

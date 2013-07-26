@@ -1,12 +1,5 @@
-url: "http://timkeller.me"
-baseurl: "http://timkeller.me"
-
-markdown: kramdown
+name: Tim Keller
 pygments: true
 permalink: /:year/:month/:day/:title/
-paginate: 10
-
-rsync_params: -az --delete --rsh='ssh' _site/ root@timkeller.me:/srv/timkeller.me
-
-tag_page_layout: tag_page
-tag_page_dir: tag
+markdown: kramdown
+paginate: 5

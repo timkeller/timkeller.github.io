@@ -1,43 +1,106 @@
 ---
 layout: default
-title: Tim Keller – Technology and the Future of Learning
+title: Welcome
 ---
 
-
+<!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-{% unless post.status == 'draft' %}
-<div class="post">
-  {% if post.link %}
-  <article class="linkbody">
-  {% else %}
-  <article class="postbody">
-  {% endif %}
-    <header>
-      {% if post.link %}
-      <h1 class="title"><a href="{{ post.link }}" class="link" target="_blank">{{ post.title }}</a><span class="linkarrow"> →</span></h1>
-      {% else %}
-      <h1 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
-      {% endif %}
-      <div class="published">
-        <time datetime="{{ post.date | date_to_xmlschema }}" pubdate="pubdate">{{ post.date | date_to_long_string }}</time>
-        • <a class="permalink" title="Permalink" href="{{ post.url }}">∞</a>
-      </div>
-    </header>
+
+<div class="article">
+    {% if post.link %}
+    <h2 class="title"><a href="{{ post.link }}" class="link" target="_blank">{{ post.title }}</a><span class="linkarrow"> →</span></h2>
+    {% else %}
+    <h2 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    {% endif %}
+
+    <p class="meta">
+        {% if post.link %}
+        {% else %}
+        <iframe border="0" scrolling="no" width="78" height="17" allowtransparency="true" frameborder="0" style="margin-bottom: -3px; z-index: 1338; border: 0px; background-color: transparent; overflow: hidden;" src="http://www.instapaper.com/e2?url={{ post.url | uri_escape }}&amp;title={{ post.title | uri_escape }}"></iframe>&nbsp;
+        {% endif %}
+
+        <time datetime="{{ post.date | date_to_xmlschema }}" pubdate="pubdate">{{ post.date | date_to_long_string }}</time> &middot; <a class="permalink" title="Permalink" href="{{ post.url }}">Permalink</a>
+    </p>
+
+    <div id="post">
     {{ post.content }}
-  </article>
-  </div>
-  <hr class="between">
-{% endunless %}
+    </div>
+</div>
+
 {% endfor %}
 
-<div class="pager">
+<!-- Pagination links -->
+
+
+<div id="post-pagination" class="pagination">
+    <ul class="pages">
+
     {% if paginator.previous_page %}
-    <a href="/page{{paginator.previous_page}}" class="previous">&larr; Previous</a></li>
+        <li class="page">
+            {% if paginator.previous_page == 1 %}
+                <a href="/">Previous</a>
+            {% else %}
+                <a href="/{{ paginator.previous_page_path }}">Previous</a>
+            {% endif %}
+        </li>
+    {% else %}
+        <li class="page">
+            <span>Previous</span>
+        </li>
     {% endif %}
-    
-    <span class="page_number "><i>{{paginator.page}} <i>of</i> {{paginator.total_pages}}</i></span>
-    
-    {% if paginator.next_page %}
-    <a href="/page{{paginator.next_page}}" class="next ">Next &rarr;</a></li>
+
+    {% if paginator.page == 1 %}
+        <li class="page"><span class="current-page">1</span></li>
+    {% else %}
+        <li class="page"><a href="/">1</a></li>
     {% endif %}
+   
+    {% if paginator.page > 4 %}
+    <li class="dotdotdot">
+        ...
+    </li>
+    {% endif %}
+
+    {% if paginator.page > 3 %}
+    <li class="page">
+        <a href="/page{{ paginator.page | minus:2 }}">{{ paginator.page | minus:2 }}</a>
+    </li>
+    {% endif %}
+
+    {% if paginator.page > 2 %}
+    <li class="page">
+        <a href="/page{{ paginator.page | minus:1 }}">{{ paginator.page | minus:1 }}</a>
+    </li>
+    {% endif %}
+
+    {% if paginator.page != 1 %}
+    <li class="page">
+        <span class="current-page">{{ paginator.page }}</span>
+    </li>
+    {% endif %}
+
+    <li class="page">
+        <a href="/page{{ paginator.page | plus:1 }}">{{ paginator.page | plus:1 }}</a>
+    </li>
+
+    <li class="page">
+        <a href="/page{{ paginator.page | plus:2 }}">{{ paginator.page | plus:2 }}</a>
+    </li>
+  
+    <li class="dotdotdot">
+        ...
+    </li>
+
+
+  {% if paginator.next_page %}
+    <li class="page">
+      <a href="/{{ paginator.next_page_path }}">Next</a>
+    </li>
+  {% else %}
+    <li class="page">
+      <span>Next</span>
+    </li>
+  {% endif %}
+  </ul>
+
 </div>

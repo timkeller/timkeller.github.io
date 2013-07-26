@@ -14,4 +14,6 @@ tags:
 
 Just a short post today with a cool satellite pic of South Africa's snow-capped peaks, courtesy of the awesome [SAWDIS](http://saweatherobserver.blogspot.com/).
 
-[![](http://timk.co.za/wp-content/uploads/2010/06/SA-2010168-snow-1024x469.jpg)](http://timk.co.za/wp-content/uploads/2010/06/SA-2010168-snow.jpg)
+<div class="wide-image">
+    <img src="/assets/2010-06-18-snow-this-week-from-space/SA-2010168-snow-1024x469.jpg" alt="Snow">
+</div>

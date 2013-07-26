@@ -1,7 +1,9 @@
 ---
-layout: post
-title: Learn, Unlearn, Relearn
 date: '2010-10-08 11:11:07'
+layout: post
+slug: learn-unlearn-relearn
+status: publish
+title: Learn, Unlearn, Relearn
 wordpress_id: '62038364'
 categories:
 - Articles
@@ -18,7 +20,8 @@ tags:
 - bestof
 ---
 
-> The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn. - Alvin Toffler
+> The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn.
+- Alvin Toffler
 
 
 Art Preston's [post](http://headthoughts.co.za/2010/10/the-grading-conundrum/) concerning "The Grading Conundrum" once again raises the debate of how we measure and assess our school students. South African schools have been through a whirlwind of change, re-change, and - sadly- un-change in the last two decades. It is clear to me that teachers, our nation's most endangered resource, are disillusioned and fatigued.
@@ -45,8 +48,8 @@ Imagine if our students' report cards looked a little more like this:
 
 
 <div class="wide-image">
-    <img src="//timkeller.me/assets/2010-10-08-learn-unlearn-relearn/schoolachievements.jpg" alt="Report Card 2.0">
-    <div class="caption">Report Card 2.0</div>
+  		<img src="/assets/2010-10-08-learn-unlearn-relearn/schoolachievements.jpg" alt="Report Card 2.0">
+  		<div class="caption">Report Card 2.0</div>
 </div>
 
 
@@ -54,4 +57,4 @@ Schools seem to be in the business of helping students to unlearn what they pick
 
 
 > In the 21st century, education is about project-based learning, connections with peers around the world, service learning, independent research, design and creativity, and, more than anything else, critical thinking and challenges to old assumptions.
-> - _Prakash Nair_
+- Prakash Nair

@@ -4,6 +4,7 @@ layout: page
 slug: speaking
 status: publish
 title: Speaking
+subtitle: Conferences, Events and Workshops
 ---
 
 <div class="wide-image">
@@ -68,4 +69,5 @@ I've had the priveledge of working with these schools and organisations:
 ## Feedback
 
 Somerset House, Somerset West:
+
 > We have received awesome feedback regarding your talk last night, from staff and parents.  It was thought-provoking, challenging and very, very helpful. Your manner of presentation was perfect for what we needed to achieve and I think you have helped position our school very well for where we are headed.  I appreciated the thought and preparation that was put into your presentation enormously and I would recommend that every school should be exposed to a presentation of this nature.  It was brilliant.
