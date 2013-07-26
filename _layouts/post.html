@@ -14,7 +14,7 @@ layout: default
     <iframe border="0" scrolling="no" width="78" height="17" allowtransparency="true" frameborder="0" style="margin-bottom: -3px; z-index: 1338; border: 0px; background-color: transparent; overflow: hidden;" src="http://www.instapaper.com/e2?url={{ page.url | uri_escape }}&amp;title={{ page.title | uri_escape }}"></iframe>&nbsp;
     {% endif %}
 
-    <time datetime="{{ page.date | date_to_xmlschema }}" pubdate="pubdate">{{ page.date | date_to_long_string }}</time> &middot; <a class="permalink" title="Permalink" href="{{ page.url }}">Permalink</a> &middot; This post is a link. <a href="{{ page.link }}">Read the full story</a>
+    <time datetime="{{ page.date | date_to_xmlschema }}" pubdate="pubdate">{{ page.date | date_to_long_string }}</time> &middot; <a class="permalink" title="Permalink" href="{{ page.url }}">Permalink</a>{% if page.link %} &middot; This post is a link. <a href="{{ page.link }}">Read the full story</a>{% endif %}
 </p>
 
 <div id="post">
