@@ -11,4 +11,4 @@ layout: post
 Emma Coats from Pixar <a href="http://aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/">shares</a> their rules for storytelling. She includes twenty two bits of tweet-length advice. My favourite two:
 
 > 4. Once upon a time there was ... Every day, .... One day .... Because of that, .... Because of that, .... Until finally ....
-> 9. When you’re stuck, make a list of what WOULDN’T happen next. Lots of times the material to get you unstuck will show up.
+> 9. When you’re stuck, make a list of what wouldn't happen next. Lots of times the material to get you unstuck will show up.
