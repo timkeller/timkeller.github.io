@@ -382,3 +382,36 @@ ul.pages li.dotdotdot {
   border-radius: 5px;
   padding:4px;
 }
+
+
+#gallery {
+  clear:both;
+  padding-bottom:10px;
+  overflow:auto;
+}
+
+#gallery .wide-image {
+  margin:0;
+  display: inline;
+  padding:0;
+  max-width:310px;
+  width:310px;
+}
+
+#gallery .wide-image img {
+  border-radius: 5px;
+  max-width:310px;
+  width:310px;
+  clear:none;
+  float:left;
+  margin:0;
+  padding:0;
+  margin-right:10px;
+  margin-bottom:10px;
+}
+
+
+#gallery .wide-image .caption {
+  display:none;
+}
+

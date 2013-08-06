@@ -1,0 +1,87 @@
+---
+date: '2013-08-06 11:36:07'
+layout: gallery
+slug: 2013-08-06-hermanus
+status: public
+title: Weekend in Hermanus
+
+flickr_set_url: http://www.flickr.com/photos/timokeller/sets/72157634943341177/
+---
+
+A few of us spent the first weekend of August in Vermont to celebrate of Graeme's 32<sup>nd</sup> birthday. What a wonderful little town. There really are very few places within day-trip distance from Cape Town as tranquil as Vermont. Here are a few snaps of our time there. The rest of the photographs are on [Flickr](http://www.flickr.com/photos/timokeller/sets/72157634943341177/).
+
+<div class="wide-image">
+        <img src="http://farm4.staticflickr.com/3731/9444859401_3dca7c2520_b.jpg" alt="">
+        <div class="caption">Sunrise</div>
+</div>
+
+<div class="wide-image">
+        <img src="http://farm6.staticflickr.com/5450/9444864811_48f298f618_b.jpg" alt="">
+        <div class="caption">Firemist</div>
+</div>
+
+<div class="wide-image">
+        <img src="http://farm4.staticflickr.com/3767/9444889961_b1f954ff44_b.jpg" alt="">
+        <div class="caption">Signboard</div>
+</div>
+
+<div class="wide-image">
+        <img src="http://farm8.staticflickr.com/7311/9447674456_1f5ed20c12_b.jpg" alt="">
+        <div class="caption">Hermanus Country Market</div>
+</div>
+
+<div class="wide-image">
+        <img src="http://farm3.staticflickr.com/2840/9447678428_9d8a08c9ee_b.jpg" alt="">
+        <div class="caption">Amy and a <a href="http://www.thewrendesign.com">Wren Design</a> bag</div>
+</div>
+
+<div class="wide-image">
+        <img src="http://farm3.staticflickr.com/2842/9447729996_a81dba9b0d_b.jpg" alt="">
+        <div class="caption">Perspective</div>
+</div>
+
+
+<div class="wide-image">
+        <img src="http://farm8.staticflickr.com/7424/9444925627_d75468fe26_b.jpg" alt="">
+        <div class="caption">Guinness Beer Bread</div>
+</div>
+
+<div class="wide-image">
+        <img src="http://farm4.staticflickr.com/3760/9444929957_6030d14101_b.jpg" alt="">
+        <div class="caption">The View</div>
+</div>
+
+
+<div class="wide-image">
+        <img src="http://farm6.staticflickr.com/5483/9444924127_808803c64f_b.jpg" alt="">
+        <div class="caption">Potjie Preparation</div>
+</div>
+
+
+<div class="wide-image">
+        <img src="http://farm4.staticflickr.com/3799/9444935119_372a2e5936_b.jpg" alt="">
+        <div class="caption">Sunset</div>
+</div>
+
+
+<div class="wide-image">
+        <img src="http://farm4.staticflickr.com/3832/9444938741_9aa496d914_b.jpg" alt="">
+        <div class="caption">Roasting marshmellows on the fire</div>
+</div>
+
+
+<div class="wide-image">
+        <img src="http://farm4.staticflickr.com/3685/9444941229_3b69277255_b.jpg" alt="">
+        <div class="caption">Jeremy and Wendren</div>
+</div>
+
+<div class="wide-image">
+        <img src="http://farm3.staticflickr.com/2869/9444940295_f1475c5ed6_b.jpg" alt="">
+        <div class="caption">Nicola and Graeme</div>
+</div>
+
+<div class="wide-image">
+        <img src="http://farm4.staticflickr.com/3685/9447726542_65bf3802c0_b.jpg" alt="">
+        <div class="caption">Hot Chocolate</div>
+</div>
+

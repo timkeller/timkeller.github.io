@@ -13,15 +13,15 @@ layout: default
     {% endif %}
 
     <p class="meta">
-        {% if post.link %}
+        {% if post.link or post.flickr_set_url %}
         {% else %}
         <iframe border="0" scrolling="no" width="78" height="17" allowtransparency="true" frameborder="0" style="margin-bottom: -3px; z-index: 1338; border: 0px; background-color: transparent; overflow: hidden;" src="http://www.instapaper.com/e2?url={{ post.url | uri_escape }}&amp;title={{ post.title | uri_escape }}"></iframe>&nbsp;
         {% endif %}
 
-        <time datetime="{{ post.date | date_to_xmlschema }}" pubdate="pubdate">{{ post.date | date_to_long_string }}</time> &middot; <a class="permalink" title="Permalink" href="{{ post.url }}">Permalink</a>
+        <time datetime="{{ post.date | date_to_xmlschema }}" pubdate="pubdate">{{ post.date | date_to_long_string }}</time> &middot; <a class="permalink" title="Permalink" href="{{ post.url }}">Permalink</a>{% if post.flickr_set_url %} &middot; <a href="{{ post.flickr_set_url }}">Flickr Set</a>{% endif %}
     </p>
 
-    <div id="post">
+    <div id="{% if post.layout == 'gallery' %}gallery{% else %} post {% endif %}">
     {{ post.content }}
     </div>
 </div>
