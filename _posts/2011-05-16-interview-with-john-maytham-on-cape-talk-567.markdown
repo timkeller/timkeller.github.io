@@ -15,8 +15,9 @@ tags:
 - radio
 - Speaking
 - Technology
+- press
 ---
 
-Here is my interview on the John Maytham Show, on Cape Talk 567, about the use of "Cell Phones in the classroom". The studio picked up the story after seeing our [article](http://www.iol.co.za/news/south-africa/western-cape/teachers-mull-technology-in-education-1.1069357) about [EdTechConf](http://www.edtechconf.co.za) in the Cape Times.
+Here is my interview on the John Maytham Show, on Cape Talk 567, about the use of "Cell Phones in the classroom". The studio picked up the story after seeing our [article](http://www.iol.co.za/news/south-africa/western-cape/teachers-mull-technology-in-education-1.1069357) about [EdTechConf](http://www.edtechconf.com) in the Cape Times.
 
-MP3: [Tim Keller on the John Maytham Show](http://timk.co.za/wp-content/uploads/2011/05/r4rY.mp3)
+MP3: [Tim Keller on the John Maytham Show](/assets/2011-05-john-maytham/Tim-Keller-on-CapeTalk-567.mp3)

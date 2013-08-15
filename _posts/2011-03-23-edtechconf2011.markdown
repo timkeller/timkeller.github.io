@@ -18,7 +18,7 @@ tags:
 - Technology
 ---
 
-[![](http://timk.co.za/wp-content/uploads/2011/03/ETC2011-rect-224x300.png)](http://edtechconf.co.za)So, we're doing a conference. Its called **EdTechConf** and I'm really excited about it.
+[![](http://timk.co.za/wp-content/uploads/2011/03/ETC2011-rect-224x300.png)](http://edtechconf.com)So, we're doing a conference. Its called **EdTechConf** and I'm really excited about it.
 
 It's happening from 13-14 May in Cape Town, and 20-21 May in Worcester.
 
@@ -45,6 +45,6 @@ Join us for two days of input and discussion around questions such as:
   * What are the pitfalls of using technology in the classroom?
 
 
-This event is not to be missed. [Sign up now](http://www.edtechconf.co.za) and follow the conference team on [twitter](http://twitter.com/edtechconf). Do it.
+This event is not to be missed. [Sign up now](http://www.edtechconf.com) and follow the conference team on [twitter](http://twitter.com/edtechconf). Do it.
 
 

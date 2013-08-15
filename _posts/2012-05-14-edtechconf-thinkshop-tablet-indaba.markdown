@@ -12,4 +12,4 @@ We're hosting our first EdTechConf Thinkshop next week, and I hope that you - de
 
 The goal is to assist you in making an informed decision as to the usefulness of tablets in the classroom. We've invited some members of the EdTechConf community to share their experiences via a panel discussion.
 
-[More Information and Registration](http://edtechconf.co.za/thinkshops/2/)
+[More Information and Registration](http://edtechconf.com/thinkshops/2/)

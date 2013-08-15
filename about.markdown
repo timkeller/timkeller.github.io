@@ -3,7 +3,10 @@ date: '2008-12-18 21:26:34'
 layout: page
 slug: about
 status: publish
-title: About Tim
+title: "About Tim"
+permalink: "about/"
+tags: 
+- press
 ---
 
 <div class="wide-image">

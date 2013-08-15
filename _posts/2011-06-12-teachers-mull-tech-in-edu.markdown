@@ -24,4 +24,4 @@ Michelle Jones, Cape Times, [reports](http://www.iol.co.za/news/south-africa/wes
 > The conference, held at the International School of Cape Town in Wynberg, was attended by 110 delegates from more than 50 city schools. Tim Keller, an organiser, said by referring to cellphones as “mobile learning devices” mindsets could be changed about their use in classrooms.
 
 
-Absolutely amazing response to our little [event](http://www.edtechconf.co.za) in the last month.  It looks like we'll be doing it again sooner than we thought.  More on that soon.
+Absolutely amazing response to our little [event](http://www.edtechconf.com) in the last month.  It looks like we'll be doing it again sooner than we thought.  More on that soon.

@@ -45,9 +45,10 @@ sup {
 
 blockquote,q {
   quotes: none;
-  padding-left: 2em;
-  padding-right: 2em;
+  padding-left: 1em;
+  padding-right: 0em;
   font-size:90%;
+  border-left:3px solid #eee;
 }
 blockquote:before,blockquote:after,q:before,q:after {
   content: '';

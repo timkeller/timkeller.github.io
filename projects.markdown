@@ -16,7 +16,7 @@ These projects are getting most of my attention right now.
 
 - [UmoyaFunda](http://umoya.net) - end-to-end technology renewal in schools.
 - [staffroom](http://mystaffroom.net) - unified school admin, assessment and management app.
-- [EdTechConf](http://edtechconf.co.za) - the conference for high-tech teachers on a low-tech budget.
+- [EdTechConf](http://edtechconf.com) - the conference for high-tech teachers on a low-tech budget.
 
 
 ## Advising 

@@ -28,5 +28,5 @@ Here goes.
 [3]: http://umoya.net
 [graeme]: http://umoya.net/2012/12/graeme-is-a-umoyite/
 [thembisa]: http://umoya.net/2012/03/thembisa-is-a-umoyite/
-[edtechconf]: http://edtechconf.co.za
+[edtechconf]: http://edtechconf.com
 [house]: http://www.timkeller.me/2012/10/12/house-2-0/

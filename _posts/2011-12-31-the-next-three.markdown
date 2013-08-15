@@ -64,7 +64,7 @@ Earlier this month I wrote down three bullet points on a scrap of paper:
 
 My entire family are teachers. Literally. Grand-mother, father, mother, brother, wife, mother-in-law, and aunt. I’m surrounded by them. Ironically, I made a concerted effort not to go into teaching. I guess you can’t go against your genes.
 
-Starting [EdTechConf](http://www.edtechconf.co.za) this year has been nothing short of life changing. I’ve been privileged to work with several schools - from private schools in Grahamstown to under-resourced schools on the Cape Flats. Across the board the cry is clear: “We seem to be losing learners to the realities of the 21st century.”
+Starting [EdTechConf](http://www.edtechconf.com) this year has been nothing short of life changing. I’ve been privileged to work with several schools - from private schools in Grahamstown to under-resourced schools on the Cape Flats. Across the board the cry is clear: “We seem to be losing learners to the realities of the 21st century.”
 
 Poor schools are unable to provide teachers, classrooms and textbooks to learners while wealthy schools can’t pique the interest of digital-native-kids who expect a learning experience that is aligned with their multimedia lifestyles.
 
