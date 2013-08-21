@@ -4,8 +4,10 @@ published: false
 
 ---
 title: "iPads in education"
-date: 2013-08-21 20:40:00
+date: 2013-08-21 22:20:00
 link: http://6000.co.za/edtech-ipads-in-education/
+status: public
+layout: post
 ---
 
 Last week I helped the [International School of Cape Town](http://isct.co.za) launch their one-to-one iPad programme. My brief was to warm up the rather uneasy group of parents and set the stage. A parent – the inimitable [Trevor Marshall](http://twitter.com/6000) - offers a witty and insightful [analysis](http://6000.co.za/edtech-ipads-in-education/) of the evening.
