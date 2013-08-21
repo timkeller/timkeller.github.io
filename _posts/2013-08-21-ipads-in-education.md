@@ -1,11 +1,8 @@
 ---
 published: true
----
-
----
-title: "iPads in education"
-date: 2013-08-21 22:20:00
-link: http://6000.co.za/edtech-ipads-in-education/
+title: iPads in education
+date: {}
+link: "http://6000.co.za/edtech-ipads-in-education/"
 status: public
 layout: post
 ---
