@@ -7,7 +7,7 @@ status: public
 layout: post
 ---
 
-Last week I helped the [International School of Cape Town](http://isct.co.za) launch their one-to-one iPad programme. My brief was to warm up the rather uneasy group of parents and set the stage. A parent – the inimitable [Trevor Marshall](http://twitter.com/6000) - offers his witty and insightful [analysis](http://6000.co.za/edtech-ipads-in-education/).
+Last week I helped the [International School of Cape Town](http://isct.co.za) launch their one-to-one iPad programme. My brief was to warm up the rather uneasy group of parents and set the stage. A parent – the inimitable [Trevor Marshall](http://twitter.com/6000) – offers his witty and insightful [analysis](http://6000.co.za/edtech-ipads-in-education/).
 
 > I’ll freely admit that even as an alleged “early adopter”, I was skeptical going into the presentation. I was concerned about several things.
 >
