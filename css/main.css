@@ -44,6 +44,12 @@ sup {
   vertical-align: super
 }
 
+img {
+  vertical-align: middle;
+}
+.img-circle {
+  border-radius: 50%;
+}
 
 blockquote p:first-child {
   margin-top: 0;
@@ -228,7 +234,7 @@ color:#555;
 }
 
 .side #logo {
-  width:120px;
+  width:160px;
 }
 /*****************************************************************************/
 /*
@@ -297,7 +303,7 @@ h3.title {
 h5.title {
   font: 9pt Avenir, 'Segoe UI', 'Lucida Grande', Lucida, Verdana, sans-serif;
   font-weight: bold;
-  color:#444;
+  color:#555;
 }
 
 ul + h2, ol + h2 {
