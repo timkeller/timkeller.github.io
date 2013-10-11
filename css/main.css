@@ -276,7 +276,10 @@ color:#555;
 
 #post h2 {
   border-bottom:1px solid #ddd;
-  margin-top:14px;
+  margin-top:18px;
+  margin-bottom:18px;
+  font-size:16px;
+  padding-bottom:5px;
 }
 .content .meta {
   margin-top:4px;
