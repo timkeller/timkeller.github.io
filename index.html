@@ -21,7 +21,7 @@ layout: default
         <time datetime="{{ post.date | date_to_xmlschema }}" pubdate="pubdate">{{ post.date | date_to_long_string }}</time> &middot; <a class="permalink" title="Permalink" href="{{ post.url }}">Permalink</a>{% if post.flickr_set_url %} &middot; <a href="{{ post.flickr_set_url }}">Flickr Set</a>{% endif %}
     </p>
 
-    <div id="{% if post.layout == 'gallery' %}gallery{% else %} post {% endif %}">
+    <div id="{% if post.layout == 'gallery' %}gallery{% else %}post{% endif %}">
     {{ post.content }}
     </div>
 </div>
