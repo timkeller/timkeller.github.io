@@ -15,7 +15,7 @@ Tim presents on several topics around the intersection of technology and educati
 
 ## <a id="edtechrev"></a>The EdTech Revolution
 
-Its not hard to miss. Everywhere you look people are talking about it: Open learning, online instruction, tablet-equiped classrooms and eTextbooks are taking the world by storm.
+Everywhere you look people are talking about it: Open learning, online instruction, tablet-equiped classrooms and eTextbooks are taking the world by storm.
 
 How did we get here? Where are we going? And how on earth do we deliver awesome teaching and learning in the midst of the biggest revolution that education has ever seen?
 
