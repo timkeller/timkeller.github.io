@@ -15,9 +15,9 @@ title: Contact Tim
 
 
 <div class="main-content">
-	<p>Please use the form below to send me a message. I'll do my best to respond timeously, but if your message is urgent please <a href="http://umoya.net/contact">call my office</a> during business hours.
+	<p>Please use the form below to send me a message. I'll do my best to respond timeously.</p>
 
-	<div style="margin:0 auto; width:600px">
+	<div style="margin:0 auto; width:600px; border:0">
 
 		<form class="form" action="http://getsimpleform.com/messages?form_api_token=153d60bf4e2424787467d2291cd25e45" method="post">
 			<fieldset>
