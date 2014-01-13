@@ -12,7 +12,7 @@ After five years at Umoya and seven years working on Staffroom full-time, I've f
 
 Initially I'll be helping the CG Pipeline team with some tools development - specifically for [Maya](http://www.autodesk.com/products/autodesk-maya/overview) and [Houdini](http://www.sidefx.com). New, unknown, exciting. It's a massive change, but I must admit that my first week has been fantastic. Sometimes the most uncomfortable decision turns out to be the best decision.
 
-I'm still consulting to the team at Staffroom, and plan to do so for the foreseeable future. 
+I'm still serving as an advisor team at Staffroom, and plan to do so for the foreseeable future. 
 
 So here's to the next chapter... 
 

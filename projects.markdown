@@ -12,17 +12,17 @@ Tim develops great software, consults, and speaks on many of the topics discusse
 
 ## Projects
 
-These projects are getting most of my attention right now.
-
-- [UmoyaFunda](http://umoya.net) - end-to-end technology renewal in schools.
-- [staffroom](http://mystaffroom.net) - unified school admin, assessment and management app.
-- [EdTechConf](http://edtechconf.com) - the conference for high-tech teachers on a low-tech budget.
-
+I'm working on Something New&trade;.
 
 ## Advising 
 
-- [uniti](http://umoya.net/uniti) - unified collaboration for teams, companies, government agencies and first responders.
-- [Fireweb](http://umoya.net/fireweb) - unified incident command and reporting for the Fire and Rescue services
+- [staffroom](http://mystaffroom.net) - unified school admin, assessment and management app.
+- [Umoya Networks](http://umoya.net) - end-to-end technology projects in schools.
+- [Umoya Software](http://umoyasoftware.com) - custom software development for mission-critical environments.
+
+## Previously
+
+- [EdTechConf](http://edtechconf.com) - the conference for high-tech teachers on a low-tech budget.
 - [The Cavern Today](http://www.thecaverntoday.com) - a very geeky podcast about, well, geeky things.
 
 
