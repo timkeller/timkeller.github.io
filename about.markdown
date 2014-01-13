@@ -19,15 +19,11 @@ tags:
 
 ## A little more
 
-Tim created the [staffroom](http://mystaffroom.net) unified school management system, and is the Lead Developer at [Umoya](http://umoya.net). His team have written software for various companies and Government departments in South Africa. Their uniti software was used by Disaster Management to manage their role in the 2010 Soccer World Cup.
+In the past, Tim created the [staffroom](http://mystaffroom.net) unified school management system, and was the Lead Developer at [Umoya](http://umoya.net). There him and his team developed software for various companies and Government departments in South Africa. Their uniti software was used by Disaster Management to manage their role in the 2010 Soccer World Cup. He remains an advisor to the team at Umoya.
 
 A UCT graduate, Tim specialised in Computer Science and Psychology, and has a particular interest in building systems which are intuitive and easy to use. He is passionate about the intersection of technology and education and has spoken about this at various conferences and schools across the country.
 
-He's also a fanatical Mac head, avid photographer, and all-round nice guy. He lives in Cape Town with his beautiful wife, [Amy](http://cre8thoughts.com).
-
-## Interviews
-
-Tim Keller operates from the suburbs of Cape Town, South Africa. Phone interviews are often available, schedule-permitting, during the day. Please [email](/contact) to set up a phone interview if necessary.
+He's also a fanatical Mac head, avid photographer, and all-round nice guy. He lives in Cape Town with his beautiful wife, [Amy](http://cre8thoughts.com). They have two adorable Beagles. 
 
 ## Even more
 
@@ -38,8 +34,4 @@ My CV is [available here](/cv).
 <a href="/img/bio-tim-colour.jpg" target="_blank"><img src="/img/bio-tim-colour.jpg" class="img img-rounded" width="100px"></a>
 <a href="/img/bio-tim-bw.jpg" target="_blank"><img src="/img/bio-tim-bw.jpg" class="img img-rounded" width="100px"></a>
 
-You might also like to <a href="/img/bio-tim-colour-full.jpg" target="_blank">download</a> a high resolution copy.
-
-## Can I buy you a present?
-
-You're too kind. And, yes. You may. Here's my <a href="http://www.amazon.com/registry/wishlist/12RF3H3TXA7CX/ref=cm_wl_rlist_go_o_T1-1" target="_blank">wish list</a>.
+You might also like to <a href="/img/bio-tim-colour-full.jpg" target="_blank">download</a> a high resolution copy. 
