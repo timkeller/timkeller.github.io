@@ -25,6 +25,7 @@ title: Contact Tim
 			  <input type='hidden' name='redirect_to' value='http://timkeller.me/contact-thanks' />
 			  <!-- all your input fields here.... -->
 			  <input type="text" name="name" placeholder="Your name"><br>
+			  <input type="email" name="email" placeholder="Your email address"><br>
 			  <textarea name="message" style="height:200px; width:400px" placeholder="Message..."></textarea><br>
 			  <input type='submit' value='Send' />
 			</fieldset>

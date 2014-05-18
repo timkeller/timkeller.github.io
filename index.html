@@ -39,7 +39,7 @@ layout: default
             {% if paginator.previous_page == 1 %}
                 <a href="/">Previous</a>
             {% else %}
-                <a href="{{ site.url }}/{{ paginator.previous_page_path }}">Previous</a>
+                <a href="{{ paginator.previous_page_path }}">Previous</a>
             {% endif %}
         </li>
     {% else %}
@@ -93,7 +93,7 @@ layout: default
 
   {% if paginator.next_page %}
     <li class="page">
-      <a href="{{ site.url }}/{{ paginator.next_page_path }}">Next</a>
+      <a href="{{ paginator.next_page_path }}">Next</a>
     </li>
   {% else %}
     <li class="page">
