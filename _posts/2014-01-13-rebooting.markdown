@@ -12,8 +12,7 @@ After five years at Umoya and seven years working on Staffroom full-time, I've f
 
 Initially I'll be helping the CG Pipeline team with some tools development - specifically for [Maya](http://www.autodesk.com/products/autodesk-maya/overview) and [Houdini](http://www.sidefx.com). New, unknown, exciting. It's a massive change, but I must admit that my first week has been fantastic. Sometimes the most uncomfortable decision turns out to be the best decision.
 
-I'm still serving as an advisor team at Staffroom, and plan to do so for the foreseeable future. 
-
 So here's to the next chapter... 
 
+<i>Update 2014-05-18: Staffroom was sold to [EiffleCorp](http://eiffelcorp.co.za) in April 2014.</i>
 
