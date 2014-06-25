@@ -12,63 +12,74 @@ wordpress_id: '62038726'
 Timothy M. Keller is a Software Developer and Entrepreneur with an interest in building intuitive user experiences for information systems.
 
 	
-- Considerable experience in developing web-based software applications
-- Strong public speaker with regular speaking invitations from corporates and schools
-- Developed web software applications for schools, government and enterprise.
-- In-depth knowledge of the Education, Disaster Management, and Fire Services sectors.
+- Considerable experience in developing web-based software applications, especially on Open Source technologies.
+- Strong public speaker with regular speaking invitations from corporates and schools.
+- Has developed software applications for schools, government and enterprises.
+- In-depth knowledge of the Education, CG Animation, Disaster Management, and Emergency Services industries.
 - Skilled in rapidly prototyping new software solutions leveraging appropriate technologies.
-- In-depth experience in creative visual (Adobe Creative Suite) and audio design.
+- Experience in visual design using the Adobe Creative Suite.
 - Contributes to podcasts and technology community websites.
 
 ## Employment and activities
 
+### **Senior Developer**, Sunrise Productions (2014-Present)
 
-PRODUCT MANAGER
-: Umoya Networks (2012-present)
+- Responsible for all web projects within the company.
+- Responsible for IT within the studio (strategy, procurement, support, training).
+- Network and Systems management (Linux, Docker/LXC, Mikrotik routing, Unifi WiFi).
+- Development of front-end web interfaces (HTML5, CSS3, Less/Sass, Javascript, Node.js).
+- Development of back-end web services (Python/Django, MySQL, MongoDB, Redis, Memcached).
+- Continuous collaboration with the Art and Design teams working in Photoshop and Illustrator.
+- Collaboration to the CG Animation supervisor and technical team.
 
+### **Product Manager**, Umoya Networks (2012-2014)
 
-
-FOUNDER
-: EdTechConf (2011-present)
-: Founded a revolutionary new education conference for passionate IT literate educators.
-It has since been franchised as micro events country-wide called _EdTechConf Extended_.
-
-
-SOFTWARE DEVELOPMENT MANAGER
-: Umoya Software, Cape Town. (2011)
-: - Strategic technical oversight on all technology projects and activities.
-: - Management and guidance of a development team using SCRUM and Emergent Design methodologies.
-: - Web Development in the Python and PHP languages utilising skills in HTML5/CSS3 design, JQuery, MySQL, PostgreSQL, Apache, nginx and Linux.
-: - Oversight of Umoya’s systems architecture including load balancers, application servers and database backends.
-: - Significant interaction with customers and partners through the development of requirement specifications and user acceptance testing.
+- Lead the technical and support teams
+- Set the strategic direction for Umoya's software products
+- Assisted with sales, marketing, business plan development and pitching to investors
+- Presented at several industry trade-shows and user groups
 
 
-LEAD SOFTWARE DEVELOPER
-: Umoya Network Solutions, Cape Town. (2008-2010)
+### **Founder**, EdTechConf (2011-present)
 
-: - Technical Lead for the specification, design and development of the **staffroom** school management suite ([www.mystaffroom.net](http://www.mystaffroom.net))
-: - Lead Developer for the **uniti** product, including User Interface, Business Logic, and database backend.
-: - Management of the software development and support team.
+- Founded a revolutionary new education conference for passionate IT literate educators.
+- It has since been franchised as micro events country-wide called _EdTechConf Extended_.
 
 
-JUNIOR ENGINEER
-: Umoya Network Solutions, Cape Town. (2005-2008)
+### **Software Development Manager**, Umoya Software (2011)
 
-: - Research and development of the ChirpFramework. It is now used extensively as the
+- Strategic technical oversight on all technology projects and activities.
+- Management and guidance of a development team using SCRUM and Emergent Design methodologies.
+- Web Development in the Python and PHP languages utilising skills in HTML5/CSS3 design, JQuery, MySQL, PostgreSQL, Apache, nginx and Linux.
+- Oversight of Umoya’s systems architecture including load balancers, application servers and database backends.
+- Significant interaction with customers and partners through the development of requirement specifications and user acceptance testing.
+
+
+### **Software Developer**, Umoya Networks (2008-2010)
+
+- Technical Lead for the specification, design and development of the **staffroom** school management suite ([www.mystaffroom.net](http://www.mystaffroom.net))
+- Lead Developer for the **uniti** product, including User Interface, Business Logic, and database backend.
+- Management of the software development and support team.
+
+
+### **Junior Developer**, Umoya Networks (2005-2008)
+
+- Research and development of the ChirpFramework. It is now used extensively as the
 underlying framework for *staffroom* as well as the *uniti* and *FireWeb* product range. Uniti and FireWeb are used in the disaster management and fire fighting environments, respectively.
 
-: - Engineering responsibilities to administrate Umoya’s internal and external software systems, including Servers (Windows/Unix) and Applications (Network Management, Document Management, E-Mail, and collaboration software).
+- Engineering responsibilities to administrate Umoya’s internal and external software systems, including Servers (Windows/Unix) and Applications (Network Management, Document Management, E-Mail, and collaboration software).
 
 
 ## Education
 
 
-UNIVERSITY OF CAPE TOWN
-: Bachelor of Science in Computer Science & Psychology (2008)
+### **University of Cape Town**
 
-FISH HOEK HIGH SCHOOL
-: - Head Student, Student Representative Council (2005)
-: - Matric distinction in four subjects
+- Bachelor of Science in Computer Science & Psychology (2008)
+
+### **Fish Hoek High School**
+- Head Student, Student Representative Council (2005)
+- Matric distinction in four subjects
 
 
 ## Achievements

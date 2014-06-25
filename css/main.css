@@ -6,13 +6,16 @@
 
 /* Global Reset */
 
+html {
+  font-size: 100%;
+}
+
 body {
   background-color: #fff;
-  font: 11pt "Helvetica Neue", "Helvetica", Avenir, 'Segoe UI', 'Lucida Grande', Lucida, Verdana, sans-serif;
+  font: 19px "Proxima Nova", "Helvetica Neue", "Helvetica", Avenir, 'Segoe UI', 'Lucida Grande', Lucida, Verdana, sans-serif;
   font-style: normal;
   font-variant: normal;
-  font-weight: 300;
-  line-height: 1.5;
+  line-height: 2;
   text-align: center;
 }
 
@@ -21,19 +24,25 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1, h2, h3, h4, h5 {
-  font-family: Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
+  font-family: "Proxima Nova", Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
   font-weight: normal;
   line-height: 1.3;
   margin: 0.25em 0;
 }
 
 
-h1 { margin-bottom: 1em; }
+h1 { margin-bottom: 1em;}
 p { margin: 1em 0; }
 
 a         { color: #2a6990; text-decoration: none; }
 a:hover   { color: #2898A7; text-decoration: none; }
 a:visited { color: #269D8A; text-decoration: none; }
+
+hr {
+  margin: 30px 0;
+  border: 0;
+  border-bottom: 1px solid #2a6990;
+}
 
 table {
   font-size: inherit;
@@ -99,13 +108,13 @@ ul.posts span {
 
 .site {
   text-align: justify;
-  width: 890px;
+  width: 960px;
   margin: 0 auto;
   line-height: 1.5;
 }
 
 .canvas {
-  width: 890px;
+  width: 960px;
   clear:both;
 }
 
@@ -149,16 +158,26 @@ ul.posts span {
 }
 
 .site .meta {
-  color: #555;
-  font-size:14px;
+  -webkit-font-smoothing: antialiased;
+  color: rgb(188, 188, 188);
+  font-family: "Proxima Nova", sans-serif;
+  font-weight: bold;
+  font-size:13px;
+  letter-spacing: 1px;
+  line-height: 19.5px;
+  height:19px;
+  text-transform: uppercase;
 }
 
 .site .meta a {
   border-bottom:0;
+  color: rgb(88, 88, 88);
+  text-decoration: none;
 }
 
 .site .meta a:hover {
   border-bottom: 0;
+  text-decoration: underline;
 }
 .footer {
   font-size: 13px;
@@ -204,11 +223,12 @@ ul.posts span {
 
 .side {
   width:200px;
-float: right;
-font-size:10pt;
-padding: 0;
-text-align: left;
-color:#555;
+  margin-right:40px;
+  float: left;
+  font-size:10pt;
+  padding: 0;
+  text-align: left;
+  color:#555;
 }
 .side img {
   max-width: 160px;
@@ -295,7 +315,8 @@ color:#555;
 }
 
 h2.title {
-  font-size:24px;
+  font-weight: 700;
+  font-size:35px;
 }
 
 h2.title a {
@@ -368,6 +389,11 @@ a.nocolor {
 }
 
 .article {
+  margin-bottom:0em;
+}
+
+.article + .article {
+  margin-top:3em;
   margin-bottom:3em;
 }
 

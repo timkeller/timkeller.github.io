@@ -9,17 +9,13 @@ tags:
 - press
 ---
 
-<div class="wide-image">
-  	<img src="/img/about-tim-marquee.jpg" alt="Tim Keller">
-</div>
-
 ## Briefly
 
 {% include about-short.markdown %}
 
 ## A little more
 
-In the past, Tim created the [staffroom](http://mystaffroom.net) unified school management system, and was the Lead Developer at [Umoya](http://umoya.net). There him and his team developed software for various companies and Government departments in South Africa. Their uniti software was used by Disaster Management to manage their role in the 2010 Soccer World Cup. He remains an advisor to the team at Umoya.
+In the past, Tim created the [staffroom](http://mystaffroom.net) unified school management system, and was the Lead Developer at [Umoya](http://umoya.net). There him and his team developed software for various companies and Government departments in South Africa. Their uniti software was used by Disaster Management to manage their role in the 2010 Soccer World Cup.
 
 A UCT graduate, Tim specialised in Computer Science and Psychology, and has a particular interest in building systems which are intuitive and easy to use. He is passionate about the intersection of technology and education and has spoken about this at various conferences and schools across the country.
 

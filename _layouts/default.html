@@ -8,7 +8,6 @@
         <meta name="viewport" content="width=device-width">
         <link rel="shortcut icon" href="/favicon.png"> 
 
-        <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="/css/syntax.css">
 
         <!-- Custom CSS -->
@@ -32,13 +31,10 @@
           <div class="site">
      
             <div class="canvas">
-                <div class="content">
-                    {{ content }}
-                </div>
 
                 <div class="side">
-                    <a href="/"><img src="/img/bio-tim-bw-left.jpg" class="img-circle" id="logo"></a>
-                    <h5 class="title"><a href="/" class="nocolor">{{ site.name }}</a></h5>
+                    <a class="text-center" href="/"><img src="/img/bio-tim-bw-left.jpg" class="img-circle" id="logo"></a>
+                    <h5 class="title"><a href="/" class="nocolor">Tim Keller</a><br><small>Developer, Designer, Speaker.</small></h5>
                     <a class="extra" href="/about">About</a><br>
                     <a class="extra" href="/speaking">Speaking</a><br>
                     <a class="extra" href="/projects">Projects</a><br>
@@ -46,15 +42,24 @@
 
                     <h5 class="title"><a href="/archives" class="nocolor">Writing</a></h5>
                     <a class="extra" href="/archives">Archives</a><br>
-                    <a class="extra" href="/press">Press Coverage</a><br>
                     <a class="extra" href="/bestof">Favourites</a><br>
+                    <a class="extra" href="/press">Press</a><br>
+
+                    <h5 class="title"><a href="/archives" class="nocolor">Photography</a></h5>
+                    <a class="extra" href="http://500px.com/timkeller">500px</a><br>
+                    <a class="extra" href="http://flickr.com/photos/timokeller">Flickr</a><br>
+                    
 
                     <h5 class="title">Subscribe</h5>
                     <a href="http://twitter.com/timkeller">Follow Tim <strong>on Twitter</strong></a><br>
-                    <a href="http://flickr.com/photos/timokeller">Follow Tim <strong>on Flickr</strong></a><br>
                     <a href="http://timkeller.tumblr.com/">Follow Tim <strong>on Tumblr</strong></a><br>
                     <a href="/rss">Subscribe to the <strong>RSS Feed</strong></a><br>
                 </div>
+
+                <div class="content">
+                    {{ content }}
+                </div>
+
             </div>
           
 
