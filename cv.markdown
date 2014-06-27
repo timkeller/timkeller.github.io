@@ -30,7 +30,7 @@ Timothy M. Keller is a Software Developer and Entrepreneur with an interest in b
 - Development of front-end web interfaces (HTML5, CSS3, Less/Sass, Javascript, Node.js).
 - Development of back-end web services (Python/Django, MySQL, MongoDB, Redis, Memcached).
 - Continuous collaboration with the Art and Design teams working in Photoshop and Illustrator.
-- Collaboration to the CG Animation supervisor and technical team.
+- Collaboration with the CG Animation supervisor and technical team.
 
 ### **Product Manager**, Umoya Networks (2012-2014)
 
@@ -50,7 +50,7 @@ Timothy M. Keller is a Software Developer and Entrepreneur with an interest in b
 
 - Strategic technical oversight on all technology projects and activities.
 - Management and guidance of a development team using SCRUM and Emergent Design methodologies.
-- Web Development in the Python and PHP languages utilising skills in HTML5/CSS3 design, JQuery, MySQL, PostgreSQL, Apache, nginx and Linux.
+- Web Development in the Python and PHP languages utilising skills in HTML5/CSS3 design, JQuery, MySQL, PostgreSQL, MongoDB, Apache, nginx and Linux.
 - Oversight of Umoya’s systems architecture including load balancers, application servers and database backends.
 - Significant interaction with customers and partners through the development of requirement specifications and user acceptance testing.
 
