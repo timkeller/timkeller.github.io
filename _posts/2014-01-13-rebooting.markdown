@@ -14,5 +14,5 @@ Initially I'll be helping the CG Pipeline team with some tools development - spe
 
 So here's to the next chapter... 
 
-<i>Update 2014-05-18: Staffroom was sold to [EiffleCorp](http://eiffelcorp.co.za) in April 2014.</i>
+<i>Update 2014-05-18: Staffroom was sold to [EiffelCorp](http://eiffelcorp.co.za) in April 2014.</i>
 
