@@ -14,7 +14,7 @@ Why?
 
 1. **Community.** My friends and colleagues at [Sunrise](//sunrise.co.za) undertook this challenge last year. [David](//thumpa.net) set up [a site](//threesixfive.co.za) and folks posted their work there. Many of them are redoing the challenge this year, and I feel like joining them.
 2. **Practice.** I want to exercise the photograph-making muscle more regularly. Weeks can go by without my fairly nice camera [^1] being taken out its bag.
-3. **Consistency.** [Dan Benjamin](//5by5.tv/people/dan) often remarks that the secret to success is showing up consistently and doing what you said you'll do. Well, outside of the most mundane of daily tasks, I can't think of anything I've done consistently for an entire year. This is a test to see if I can change that. 
+3. **Consistency.** [Dan Benjamin](//5by5.tv/people/dan-benjamin) often remarks that the secret to success is showing up consistently and doing what you said you'll do. Well, outside of the most mundane of daily tasks, I can't think of anything I've done consistently for an entire year. This is a test to see if I can change that. 
 
 I'm scared.
 
